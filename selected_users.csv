@@ -1,0 +1,1055 @@
+blast_review_id,test_id,human_error_message,test_language
+00001c9e-f8a5-4b92-8c94-b02f2209c968,156effcd-27f9-11ec-abc5-4213e7ee7fac,Je gebruikt echt `DELETE` in je SQL bestand,nl
+00002312-66bf-4c25-94fe-d8b9def65fcd,8b2a55a4-2845-11ed-b4d0-4213e7ee7fac,,nl
+00002312-66bf-4c25-94fe-d8b9def65fcd,8b2a55a4-2845-11ed-b4d0-4213e7ee7fac,,nl
+00002312-66bf-4c25-94fe-d8b9def65fcd,8b2a55a4-2845-11ed-b4d0-4213e7ee7fac,,nl
+00002312-66bf-4c25-94fe-d8b9def65fcd,8b2a55a4-2845-11ed-b4d0-4213e7ee7fac,,nl
+00002312-66bf-4c25-94fe-d8b9def65fcd,8b2a55a4-2845-11ed-b4d0-4213e7ee7fac,,nl
+00002312-66bf-4c25-94fe-d8b9def65fcd,8b2a55a4-2845-11ed-b4d0-4213e7ee7fac,,nl
+000036c5-a05c-4878-bc08-faa9ed694efd,aab8d456-27fa-11ec-abc5-4213e7ee7fac,,nl
+000059d4-e45f-4f94-9da5-ff898dbf8851,d27bc3ba-b47a-11ea-a2fb-cec41367f4e7,,nl
+000059d4-e45f-4f94-9da5-ff898dbf8851,d27bc3ba-b47a-11ea-a2fb-cec41367f4e7,,nl
+000059d4-e45f-4f94-9da5-ff898dbf8851,d27bc3ba-b47a-11ea-a2fb-cec41367f4e7,,nl
+000059d4-e45f-4f94-9da5-ff898dbf8851,d27bc3ba-b47a-11ea-a2fb-cec41367f4e7,,nl
+000059d4-e45f-4f94-9da5-ff898dbf8851,d27bc3ba-b47a-11ea-a2fb-cec41367f4e7,,nl
+00006cbc-1bca-11ec-be5a-4213e7ee7fac,d8cbdd65-bcf5-11ea-a2fb-cec41367f4e7,,nl
+00006cbc-1bca-11ec-be5a-4213e7ee7fac,d8cbdd65-bcf5-11ea-a2fb-cec41367f4e7,,nl
+00006cbc-1bca-11ec-be5a-4213e7ee7fac,d8cbdd65-bcf5-11ea-a2fb-cec41367f4e7,,nl
+00006cbc-1bca-11ec-be5a-4213e7ee7fac,d8cbdd65-bcf5-11ea-a2fb-cec41367f4e7,,nl
+0000762b-2314-4dd5-aa0b-275806da0af8,a77d3e9c-27f7-11ec-abc5-4213e7ee7fac,,nl
+0000770a-b7f2-11eb-bc2f-4213e7ee7fac,ab74c70c-ae72-11eb-b248-4213e7ee7fac,,nl
+0000857a-50ef-4b63-b41b-45973f1bd937,6f1f8021-b47a-11ea-a2fb-cec41367f4e7,,nl
+0000857a-50ef-4b63-b41b-45973f1bd937,6f1f8021-b47a-11ea-a2fb-cec41367f4e7,,nl
+0000857a-50ef-4b63-b41b-45973f1bd937,6f1f8021-b47a-11ea-a2fb-cec41367f4e7,,nl
+00009f5f-e0e6-11eb-978a-4213e7ee7fac,d02f940d-67bd-11eb-b0f7-4213e7ee7fac,,nl
+0000e2c2-9538-11eb-a3da-4213e7ee7fac,6f1f8021-b47a-11ea-a2fb-cec41367f4e7,,nl
+0000e2c2-9538-11eb-a3da-4213e7ee7fac,6f1f8021-b47a-11ea-a2fb-cec41367f4e7,,nl
+0000e2c2-9538-11eb-a3da-4213e7ee7fac,6f1f8021-b47a-11ea-a2fb-cec41367f4e7,,nl
+00010cbb-5faf-11eb-bd18-4213e7ee7fac,63e55975-bd39-11ea-a2fb-cec41367f4e7,,nl
+00010cbb-5faf-11eb-bd18-4213e7ee7fac,63e55975-bd39-11ea-a2fb-cec41367f4e7,,nl
+00010cbb-5faf-11eb-bd18-4213e7ee7fac,63e55975-bd39-11ea-a2fb-cec41367f4e7,,nl
+000115fe-bf3b-43e7-9b53-08e5c30cfd88,940e0415-23a8-11ed-b4d0-4213e7ee7fac,,nl
+000115fe-bf3b-43e7-9b53-08e5c30cfd88,940e0415-23a8-11ed-b4d0-4213e7ee7fac,,nl
+000115fe-bf3b-43e7-9b53-08e5c30cfd88,940e0415-23a8-11ed-b4d0-4213e7ee7fac,,nl
+000115fe-bf3b-43e7-9b53-08e5c30cfd88,940e0415-23a8-11ed-b4d0-4213e7ee7fac,,nl
+00016e68-b24b-4a8c-a720-68365fd985b7,c82728c7-afd9-11ea-a2fb-cec41367f4e7,Hier wordt gecontroleerd dat je programma de `-` operator en daarna twee random getallen als input kan nemen en deze van elkaar aftrekt,nl
+00016e68-b24b-4a8c-a720-68365fd985b7,c82728c7-afd9-11ea-a2fb-cec41367f4e7,Hier wordt gecontroleerd dat je programma de `+` operator en daarna twee random getallen als input kan nemen en deze bij elkaar optelt,nl
+00017970-3a84-420f-aae2-9b80a25cb339,df8aadb0-bf7c-11ea-a2fb-cec41367f4e7,,nl
+00017970-3a84-420f-aae2-9b80a25cb339,df8aadb0-bf7c-11ea-a2fb-cec41367f4e7,,nl
+00017970-3a84-420f-aae2-9b80a25cb339,df8aadb0-bf7c-11ea-a2fb-cec41367f4e7,,nl
+00017970-3a84-420f-aae2-9b80a25cb339,df8aadb0-bf7c-11ea-a2fb-cec41367f4e7,,nl
+00017970-3a84-420f-aae2-9b80a25cb339,df8aadb0-bf7c-11ea-a2fb-cec41367f4e7,,nl
+00017970-3a84-420f-aae2-9b80a25cb339,df8aadb0-bf7c-11ea-a2fb-cec41367f4e7,,nl
+00017f32-2bac-4d73-9dbd-d82ffaee5b0a,4510ab42-afd6-11ea-a2fb-cec41367f4e7,,nl
+00017f32-2bac-4d73-9dbd-d82ffaee5b0a,4510ab42-afd6-11ea-a2fb-cec41367f4e7,,nl
+00018e9c-3336-4781-b0ca-05436e79b795,9fe2999f-1d53-11ed-b4d0-4213e7ee7fac,,nl
+00018e9c-3336-4781-b0ca-05436e79b795,9fe2999f-1d53-11ed-b4d0-4213e7ee7fac,,nl
+00018e9c-3336-4781-b0ca-05436e79b795,9fe2999f-1d53-11ed-b4d0-4213e7ee7fac,,nl
+00018e9c-3336-4781-b0ca-05436e79b795,9fe2999f-1d53-11ed-b4d0-4213e7ee7fac,,nl
+00018e9c-3336-4781-b0ca-05436e79b795,9fe2999f-1d53-11ed-b4d0-4213e7ee7fac,,nl
+00018f28-1d0e-40ce-a53f-deb1a364d4ba,1bb1a252-ae6b-11eb-b248-4213e7ee7fac,,nl
+00018f28-1d0e-40ce-a53f-deb1a364d4ba,f70cb75c-ae6a-11eb-b248-4213e7ee7fac,,nl
+0001adf6-dff6-455e-9545-6a21802689f7,8f80641c-6bc7-11eb-b0f7-4213e7ee7fac,,nl
+0001adf6-dff6-455e-9545-6a21802689f7,8f80641c-6bc7-11eb-b0f7-4213e7ee7fac,,nl
+0001adf6-dff6-455e-9545-6a21802689f7,8f80641c-6bc7-11eb-b0f7-4213e7ee7fac,,nl
+0001adf6-dff6-455e-9545-6a21802689f7,8f80641c-6bc7-11eb-b0f7-4213e7ee7fac,,nl
+0001e91d-9175-47a6-b2f6-7a9f710dc51e,d27bc3ba-b47a-11ea-a2fb-cec41367f4e7,,nl
+0001e91d-9175-47a6-b2f6-7a9f710dc51e,d27bc3ba-b47a-11ea-a2fb-cec41367f4e7,,nl
+0001e91d-9175-47a6-b2f6-7a9f710dc51e,d27bc3ba-b47a-11ea-a2fb-cec41367f4e7,,nl
+0001e91d-9175-47a6-b2f6-7a9f710dc51e,d27bc3ba-b47a-11ea-a2fb-cec41367f4e7,,nl
+0001e91d-9175-47a6-b2f6-7a9f710dc51e,d27bc3ba-b47a-11ea-a2fb-cec41367f4e7,,nl
+000233ac-6478-11eb-8d22-4213e7ee7fac,014cda7b-b47d-11ea-a2fb-cec41367f4e7,,nl
+000233ac-6478-11eb-8d22-4213e7ee7fac,014cda7b-b47d-11ea-a2fb-cec41367f4e7,,nl
+000233ac-6478-11eb-8d22-4213e7ee7fac,014cda7b-b47d-11ea-a2fb-cec41367f4e7,,nl
+000233ac-6478-11eb-8d22-4213e7ee7fac,014cda7b-b47d-11ea-a2fb-cec41367f4e7,,nl
+000233ac-6478-11eb-8d22-4213e7ee7fac,014cda7b-b47d-11ea-a2fb-cec41367f4e7,,nl
+0002368f-88e8-11eb-a3da-4213e7ee7fac,4b707c59-bab3-11ea-a2fb-cec41367f4e7,,nl
+0002368f-88e8-11eb-a3da-4213e7ee7fac,4b707c59-bab3-11ea-a2fb-cec41367f4e7,,nl
+0002368f-88e8-11eb-a3da-4213e7ee7fac,4b707c59-bab3-11ea-a2fb-cec41367f4e7,,nl
+00026643-fccf-48d0-96b7-c96e76028925,ef36910e-f0f3-11ea-b861-cec41367f4e7,,nl
+00028a11-0e1d-11ec-a943-4213e7ee7fac,559e5891-bb69-11ea-a2fb-cec41367f4e7,,nl
+00028a11-0e1d-11ec-a943-4213e7ee7fac,559e5891-bb69-11ea-a2fb-cec41367f4e7,,nl
+00028a11-0e1d-11ec-a943-4213e7ee7fac,559e5891-bb69-11ea-a2fb-cec41367f4e7,,nl
+0002a7b6-b08c-4739-b973-e0437e804348,e255e47e-acdd-11eb-89a3-4213e7ee7fac,,nl
+0002a7b6-b08c-4739-b973-e0437e804348,e6626678-acdd-11eb-89a3-4213e7ee7fac,,nl
+0002a7b6-b08c-4739-b973-e0437e804348,e6626678-acdd-11eb-89a3-4213e7ee7fac,,nl
+0002a7b6-b08c-4739-b973-e0437e804348,e6626678-acdd-11eb-89a3-4213e7ee7fac,De uitkomst van modulo moet kloppen.,nl
+0002a7b6-b08c-4739-b973-e0437e804348,e6626678-acdd-11eb-89a3-4213e7ee7fac,,nl
+0002a7b6-b08c-4739-b973-e0437e804348,e6626678-acdd-11eb-89a3-4213e7ee7fac,,nl
+0002abb9-55ee-4a70-acc0-4bd578ccfaf1,ef36910e-f0f3-11ea-b861-cec41367f4e7,,nl
+0002d51d-2f75-4754-8c78-fd45726c0df1,cad5d1de-b543-11ea-a2fb-cec41367f4e7,,nl
+0002d51d-2f75-4754-8c78-fd45726c0df1,cad5d1de-b543-11ea-a2fb-cec41367f4e7,,nl
+0002d51d-2f75-4754-8c78-fd45726c0df1,cad5d1de-b543-11ea-a2fb-cec41367f4e7,,nl
+0002d51d-2f75-4754-8c78-fd45726c0df1,cad5d1de-b543-11ea-a2fb-cec41367f4e7,,nl
+0002d51d-2f75-4754-8c78-fd45726c0df1,cad5d1de-b543-11ea-a2fb-cec41367f4e7,,nl
+0002d51d-2f75-4754-8c78-fd45726c0df1,cad5d1de-b543-11ea-a2fb-cec41367f4e7,,nl
+0002f052-7e3e-402a-904a-5f067ddf068d,66b0133d-b9d0-11ea-a2fb-cec41367f4e7,Test of er gebruik gemaakt wordt 1 `for` loop in combinatie met string concatinatie `.` om de piramides te printen.,nl
+0002f052-7e3e-402a-904a-5f067ddf068d,66b0133d-b9d0-11ea-a2fb-cec41367f4e7,,nl
+000323db-25d6-4bde-b3cf-3e3412e29742,08c7218e-27f8-11ec-abc5-4213e7ee7fac,,nl
+000323db-25d6-4bde-b3cf-3e3412e29742,08c7218e-27f8-11ec-abc5-4213e7ee7fac,Je gebruikt echt `TRUNCATE` in je SQL bestand,nl
+00033249-e51d-4d5d-aeba-66416cf3f816,2e803194-bf68-11ea-a2fb-cec41367f4e7,,nl
+00033249-e51d-4d5d-aeba-66416cf3f816,2e803194-bf68-11ea-a2fb-cec41367f4e7,,nl
+00033249-e51d-4d5d-aeba-66416cf3f816,2e803194-bf68-11ea-a2fb-cec41367f4e7,,nl
+00033249-e51d-4d5d-aeba-66416cf3f816,2e803194-bf68-11ea-a2fb-cec41367f4e7,,nl
+00033249-e51d-4d5d-aeba-66416cf3f816,2e803194-bf68-11ea-a2fb-cec41367f4e7,,nl
+00033249-e51d-4d5d-aeba-66416cf3f816,2e803194-bf68-11ea-a2fb-cec41367f4e7,,nl
+00035d1f-b60e-4aab-ae58-58cbe826c7c3,8bffc7d2-c9aa-11eb-bac0-4213e7ee7fac,,nl
+00035d1f-b60e-4aab-ae58-58cbe826c7c3,8bffc7d2-c9aa-11eb-bac0-4213e7ee7fac,Deze test controleert of het index.html bestand de tekst `Hallo wereld!` bevat,nl
+000369f8-2ea0-4a28-be27-8c1a6f66a084,1e671636-b544-11ea-a2fb-cec41367f4e7,,nl
+000369f8-2ea0-4a28-be27-8c1a6f66a084,1e671636-b544-11ea-a2fb-cec41367f4e7,,nl
+000369f8-2ea0-4a28-be27-8c1a6f66a084,1e671636-b544-11ea-a2fb-cec41367f4e7,,nl
+000369f8-2ea0-4a28-be27-8c1a6f66a084,1e671636-b544-11ea-a2fb-cec41367f4e7,,nl
+000369f8-2ea0-4a28-be27-8c1a6f66a084,1e671636-b544-11ea-a2fb-cec41367f4e7,,nl
+000369f8-2ea0-4a28-be27-8c1a6f66a084,1e671636-b544-11ea-a2fb-cec41367f4e7,,nl
+000369f8-2ea0-4a28-be27-8c1a6f66a084,1e671636-b544-11ea-a2fb-cec41367f4e7,,nl
+000369f8-2ea0-4a28-be27-8c1a6f66a084,1e671636-b544-11ea-a2fb-cec41367f4e7,,nl
+00039218-c269-458d-a8bb-efc94352a4bf,02544c52-67bf-11eb-b0f7-4213e7ee7fac,,nl
+00039218-c269-458d-a8bb-efc94352a4bf,bac5d64e-8d39-11eb-a3da-4213e7ee7fac,,nl
+00039218-c269-458d-a8bb-efc94352a4bf,bac5d64e-8d39-11eb-a3da-4213e7ee7fac,,nl
+00039218-c269-458d-a8bb-efc94352a4bf,bac5d64e-8d39-11eb-a3da-4213e7ee7fac,,nl
+00039218-c269-458d-a8bb-efc94352a4bf,bac5d64e-8d39-11eb-a3da-4213e7ee7fac,,nl
+00039218-c269-458d-a8bb-efc94352a4bf,bac5d64e-8d39-11eb-a3da-4213e7ee7fac,,nl
+00039218-c269-458d-a8bb-efc94352a4bf,bac5d64e-8d39-11eb-a3da-4213e7ee7fac,,nl
+00039604-2165-4580-8119-43dd4bbdb8f5,89a9c243-eb02-11ec-b805-4213e7ee7fac,,nl
+00039604-2165-4580-8119-43dd4bbdb8f5,89a9c243-eb02-11ec-b805-4213e7ee7fac,,nl
+0003e2c2-8a1b-424e-8e84-10178a2c6f16,a6283acc-bf77-11ea-a2fb-cec41367f4e7,,nl
+0003e2c2-8a1b-424e-8e84-10178a2c6f16,a6283acc-bf77-11ea-a2fb-cec41367f4e7,,nl
+0003e2c2-8a1b-424e-8e84-10178a2c6f16,a6283acc-bf77-11ea-a2fb-cec41367f4e7,De uitwerking gebruikt de `floor` methode,nl
+0003e2c2-8a1b-424e-8e84-10178a2c6f16,a6283acc-bf77-11ea-a2fb-cec41367f4e7,,nl
+0003e2c2-8a1b-424e-8e84-10178a2c6f16,a6283acc-bf77-11ea-a2fb-cec41367f4e7,,nl
+00042b93-c61a-47eb-9847-021a7ec7ae47,988ba580-fe6e-4f4d-992c-f5da219901d1,,nl
+00046c1e-87c9-11eb-a3da-4213e7ee7fac,57872c73-6d19-11eb-ac8e-4213e7ee7fac,,nl
+00047d13-f48e-4043-8d27-5e4337011dad,382332cf-1d3d-11ed-b4d0-4213e7ee7fac,,nl
+0004a168-1e13-4283-8915-488a8f80419d,be700679-b06f-11ea-a2fb-cec41367f4e7,,nl
+0004a168-1e13-4283-8915-488a8f80419d,be700679-b06f-11ea-a2fb-cec41367f4e7,,nl
+0004a168-1e13-4283-8915-488a8f80419d,be700679-b06f-11ea-a2fb-cec41367f4e7,,nl
+0004b201-0683-4b55-96df-00d4865d8868,382332cf-1d3d-11ed-b4d0-4213e7ee7fac,,nl
+0004fa63-9bc3-11eb-89a3-4213e7ee7fac,4df3aa00-6bb3-11eb-b0f7-4213e7ee7fac,,nl
+0004fa63-9bc3-11eb-89a3-4213e7ee7fac,4df3aa00-6bb3-11eb-b0f7-4213e7ee7fac,,nl
+0004fa63-9bc3-11eb-89a3-4213e7ee7fac,4df3aa00-6bb3-11eb-b0f7-4213e7ee7fac,,nl
+00052b0d-a25d-494e-a928-69eb9516fbfa,b1099b10-b544-11ea-a2fb-cec41367f4e7,,nl
+00052b0d-a25d-494e-a928-69eb9516fbfa,b1099b10-b544-11ea-a2fb-cec41367f4e7,,nl
+00052b0d-a25d-494e-a928-69eb9516fbfa,b1099b10-b544-11ea-a2fb-cec41367f4e7,,nl
+000533ea-15f5-11ec-be5a-4213e7ee7fac,c82728c7-afd9-11ea-a2fb-cec41367f4e7,,nl
+000533ea-15f5-11ec-be5a-4213e7ee7fac,c82728c7-afd9-11ea-a2fb-cec41367f4e7,,nl
+00053728-1949-41f7-9894-6f28b4135772,08c7218e-27f8-11ec-abc5-4213e7ee7fac,,nl
+00053728-1949-41f7-9894-6f28b4135772,08c7218e-27f8-11ec-abc5-4213e7ee7fac,,nl
+00055466-0e12-49e3-8e1f-ab49f778ab0b,8bffc7d2-c9aa-11eb-bac0-4213e7ee7fac,,nl
+00055466-0e12-49e3-8e1f-ab49f778ab0b,8bffc7d2-c9aa-11eb-bac0-4213e7ee7fac,Deze test controleert of het index.html bestand de tekst `Hallo wereld!` bevat,nl
+00055715-e7f7-4818-9e04-de96e2759336,77ae1369-67bc-11eb-b0f7-4213e7ee7fac,,nl
+00055715-e7f7-4818-9e04-de96e2759336,77ae1369-67bc-11eb-b0f7-4213e7ee7fac,,nl
+00055715-e7f7-4818-9e04-de96e2759336,77ae1369-67bc-11eb-b0f7-4213e7ee7fac,,nl
+00055715-e7f7-4818-9e04-de96e2759336,77ae1369-67bc-11eb-b0f7-4213e7ee7fac,,nl
+00055715-e7f7-4818-9e04-de96e2759336,77ae1369-67bc-11eb-b0f7-4213e7ee7fac,,nl
+0005602d-6e90-448c-a570-a76e46ee043a,df8aadb0-bf7c-11ea-a2fb-cec41367f4e7,,nl
+0005602d-6e90-448c-a570-a76e46ee043a,df8aadb0-bf7c-11ea-a2fb-cec41367f4e7,,nl
+0005602d-6e90-448c-a570-a76e46ee043a,df8aadb0-bf7c-11ea-a2fb-cec41367f4e7,,nl
+0005602d-6e90-448c-a570-a76e46ee043a,df8aadb0-bf7c-11ea-a2fb-cec41367f4e7,,nl
+0005602d-6e90-448c-a570-a76e46ee043a,df8aadb0-bf7c-11ea-a2fb-cec41367f4e7,,nl
+0005602d-6e90-448c-a570-a76e46ee043a,df8aadb0-bf7c-11ea-a2fb-cec41367f4e7,,nl
+00057633-ee12-470f-953e-ff90e3523669,6f1f8021-b47a-11ea-a2fb-cec41367f4e7,,nl
+00057633-ee12-470f-953e-ff90e3523669,6f1f8021-b47a-11ea-a2fb-cec41367f4e7,Hier wordt gekeken of het index.html bestand een opening `<head>` tag heeft en een closing `</head>` tag,nl
+00057633-ee12-470f-953e-ff90e3523669,6f1f8021-b47a-11ea-a2fb-cec41367f4e7,,nl
+000587ee-ec3a-11ea-b861-cec41367f4e7,014cda7b-b47d-11ea-a2fb-cec41367f4e7,,nl
+000587ee-ec3a-11ea-b861-cec41367f4e7,014cda7b-b47d-11ea-a2fb-cec41367f4e7,,nl
+000596c3-901a-4490-a99f-e2f18aeb4034,3e6333c5-1d40-11ed-b4d0-4213e7ee7fac,,nl
+000596c3-901a-4490-a99f-e2f18aeb4034,3e6333c5-1d40-11ed-b4d0-4213e7ee7fac,,nl
+0005b9e4-e648-41d1-875c-2c2d388879b5,2ec09516-23ab-11ed-b4d0-4213e7ee7fac,,nl
+0005b9e4-e648-41d1-875c-2c2d388879b5,2ec09516-23ab-11ed-b4d0-4213e7ee7fac,,nl
+0005bd9a-5aa3-48b7-b774-ee619de83283,b4e4563c-67bd-11eb-b0f7-4213e7ee7fac,,nl
+0005e1b4-361c-4aba-835b-b4177bcb4f0e,fdd41cc7-055d-4358-981c-d0f5822d904b,Tests of de output correct is,nl
+0005fe21-0b14-4bc1-aa23-ee4e2f1eb434,df8aadb0-bf7c-11ea-a2fb-cec41367f4e7,,nl
+0005fe21-0b14-4bc1-aa23-ee4e2f1eb434,df8aadb0-bf7c-11ea-a2fb-cec41367f4e7,,nl
+0005fe21-0b14-4bc1-aa23-ee4e2f1eb434,df8aadb0-bf7c-11ea-a2fb-cec41367f4e7,,nl
+0005fe21-0b14-4bc1-aa23-ee4e2f1eb434,df8aadb0-bf7c-11ea-a2fb-cec41367f4e7,,nl
+0005fe21-0b14-4bc1-aa23-ee4e2f1eb434,df8aadb0-bf7c-11ea-a2fb-cec41367f4e7,,nl
+0005fe21-0b14-4bc1-aa23-ee4e2f1eb434,df8aadb0-bf7c-11ea-a2fb-cec41367f4e7,,nl
+000600c2-228e-11eb-9b9c-4213e7ee7fac,25e42ecf-b543-11ea-a2fb-cec41367f4e7,,nl
+000600c2-228e-11eb-9b9c-4213e7ee7fac,25e42ecf-b543-11ea-a2fb-cec41367f4e7,,nl
+000600c2-228e-11eb-9b9c-4213e7ee7fac,25e42ecf-b543-11ea-a2fb-cec41367f4e7,,nl
+000600c2-228e-11eb-9b9c-4213e7ee7fac,25e42ecf-b543-11ea-a2fb-cec41367f4e7,,nl
+000600c2-228e-11eb-9b9c-4213e7ee7fac,25e42ecf-b543-11ea-a2fb-cec41367f4e7,,nl
+000600c2-228e-11eb-9b9c-4213e7ee7fac,25e42ecf-b543-11ea-a2fb-cec41367f4e7,,nl
+000600c2-228e-11eb-9b9c-4213e7ee7fac,25e42ecf-b543-11ea-a2fb-cec41367f4e7,,nl
+00065830-e571-11ea-b861-cec41367f4e7,d0671fb7-b064-11ea-a2fb-cec41367f4e7,,nl
+00065830-e571-11ea-b861-cec41367f4e7,d0671fb7-b064-11ea-a2fb-cec41367f4e7,,nl
+00068d41-add1-42c7-9c8a-bf7a44228cfc,25e42ecf-b543-11ea-a2fb-cec41367f4e7,,nl
+00068d41-add1-42c7-9c8a-bf7a44228cfc,25e42ecf-b543-11ea-a2fb-cec41367f4e7,,nl
+00068d41-add1-42c7-9c8a-bf7a44228cfc,25e42ecf-b543-11ea-a2fb-cec41367f4e7,,nl
+00068d41-add1-42c7-9c8a-bf7a44228cfc,25e42ecf-b543-11ea-a2fb-cec41367f4e7,,nl
+00068d41-add1-42c7-9c8a-bf7a44228cfc,25e42ecf-b543-11ea-a2fb-cec41367f4e7,,nl
+00068d41-add1-42c7-9c8a-bf7a44228cfc,25e42ecf-b543-11ea-a2fb-cec41367f4e7,,nl
+0006a00f-6afe-428c-9dfe-054239750d33,4510ab42-afd6-11ea-a2fb-cec41367f4e7,,nl
+0006a00f-6afe-428c-9dfe-054239750d33,4510ab42-afd6-11ea-a2fb-cec41367f4e7,,nl
+0006a666-c09a-42b9-acd6-7f19dc165016,2b523ff3-18a8-11ed-b4d0-4213e7ee7fac,,nl
+0006a666-c09a-42b9-acd6-7f19dc165016,2b523ff3-18a8-11ed-b4d0-4213e7ee7fac,,nl
+0006d707-53e0-4b62-b5b6-5a956850a765,9725f400-b542-11ea-a2fb-cec41367f4e7,,nl
+0006d707-53e0-4b62-b5b6-5a956850a765,9725f400-b542-11ea-a2fb-cec41367f4e7,,nl
+000702fb-e008-4a00-8b73-a8469e50ebff,961688c5-fd0e-11ec-9175-4213e7ee7fac,,nl
+000702fb-e008-4a00-8b73-a8469e50ebff,961688c5-fd0e-11ec-9175-4213e7ee7fac,,nl
+000733a0-f563-42ab-9c4d-de121070c07a,10c3a810-bd33-11ea-a2fb-cec41367f4e7,,nl
+000733a0-f563-42ab-9c4d-de121070c07a,10c3a810-bd33-11ea-a2fb-cec41367f4e7,,nl
+000733a0-f563-42ab-9c4d-de121070c07a,10c3a810-bd33-11ea-a2fb-cec41367f4e7,,nl
+000733a0-f563-42ab-9c4d-de121070c07a,10c3a810-bd33-11ea-a2fb-cec41367f4e7,,nl
+000733a0-f563-42ab-9c4d-de121070c07a,10c3a810-bd33-11ea-a2fb-cec41367f4e7,,nl
+000737a8-11ae-4124-9895-a84722704c66,021f0939-22bc-11ed-b4d0-4213e7ee7fac,,nl
+000737a8-11ae-4124-9895-a84722704c66,021f0939-22bc-11ed-b4d0-4213e7ee7fac,,nl
+000737a8-11ae-4124-9895-a84722704c66,021f0939-22bc-11ed-b4d0-4213e7ee7fac,,nl
+000737a8-11ae-4124-9895-a84722704c66,021f0939-22bc-11ed-b4d0-4213e7ee7fac,,nl
+000737a8-11ae-4124-9895-a84722704c66,021f0939-22bc-11ed-b4d0-4213e7ee7fac,,nl
+000737a8-11ae-4124-9895-a84722704c66,021f0939-22bc-11ed-b4d0-4213e7ee7fac,,nl
+0007459a-af36-11eb-ab88-4213e7ee7fac,bdd383ce-6b20-11eb-b0f7-4213e7ee7fac,,nl
+0007459a-af36-11eb-ab88-4213e7ee7fac,bdd383ce-6b20-11eb-b0f7-4213e7ee7fac,,nl
+0007459a-af36-11eb-ab88-4213e7ee7fac,bdd383ce-6b20-11eb-b0f7-4213e7ee7fac,,nl
+0007459a-af36-11eb-ab88-4213e7ee7fac,bdd383ce-6b20-11eb-b0f7-4213e7ee7fac,,nl
+0007459a-af36-11eb-ab88-4213e7ee7fac,e2899261-6b20-11eb-b0f7-4213e7ee7fac,,nl
+000749c0-bafc-11eb-bc2f-4213e7ee7fac,8910e790-70ac-11eb-ac8e-4213e7ee7fac,,nl
+000749c0-bafc-11eb-bc2f-4213e7ee7fac,8910e790-70ac-11eb-ac8e-4213e7ee7fac,,nl
+000749c0-bafc-11eb-bc2f-4213e7ee7fac,8910e790-70ac-11eb-ac8e-4213e7ee7fac,,nl
+000749c0-bafc-11eb-bc2f-4213e7ee7fac,8910e790-70ac-11eb-ac8e-4213e7ee7fac,,nl
+000749c0-bafc-11eb-bc2f-4213e7ee7fac,8910e790-70ac-11eb-ac8e-4213e7ee7fac,,nl
+000749c0-bafc-11eb-bc2f-4213e7ee7fac,8910e790-70ac-11eb-ac8e-4213e7ee7fac,,nl
+000749c0-bafc-11eb-bc2f-4213e7ee7fac,a06be922-67bb-11eb-b0f7-4213e7ee7fac,,nl
+000749c0-bafc-11eb-bc2f-4213e7ee7fac,a06be922-67bb-11eb-b0f7-4213e7ee7fac,,nl
+000749c0-bafc-11eb-bc2f-4213e7ee7fac,a06be922-67bb-11eb-b0f7-4213e7ee7fac,,nl
+000749c0-bafc-11eb-bc2f-4213e7ee7fac,a06be922-67bb-11eb-b0f7-4213e7ee7fac,,nl
+00074c95-fa4b-4168-ba3d-7c2340dc1c58,9725f400-b542-11ea-a2fb-cec41367f4e7,,nl
+00074c95-fa4b-4168-ba3d-7c2340dc1c58,9725f400-b542-11ea-a2fb-cec41367f4e7,,nl
+000760fc-faf4-4e88-a352-0472e19a7772,e5d069ab-f114-11eb-978a-4213e7ee7fac,,nl
+00076265-0e5d-11ec-a943-4213e7ee7fac,25078a26-b064-11ea-a2fb-cec41367f4e7,"Controleert dat als de input de `-` operator is en er daarna twee getallen worden ingevoerd, het resultaat wordt uitgeprint op de commandline",nl
+00076265-0e5d-11ec-a943-4213e7ee7fac,25078a26-b064-11ea-a2fb-cec41367f4e7,"Controleert dat als de input de `%` operator is en er daarna twee getallen worden ingevoerd, het resultaat wordt uitgeprint op de commandline",nl
+00076265-0e5d-11ec-a943-4213e7ee7fac,25078a26-b064-11ea-a2fb-cec41367f4e7,"Controleert dat als de input een geldige operator is en er daarna een ongeldig getal wordt ingevoerd, de tekst `geen getal` of `geen nummer` wordt geprint naar de commandline. Let op: deze controle is hoofdletter gevoelig.",nl
+00076265-0e5d-11ec-a943-4213e7ee7fac,25078a26-b064-11ea-a2fb-cec41367f4e7,,nl
+00076265-0e5d-11ec-a943-4213e7ee7fac,25078a26-b064-11ea-a2fb-cec41367f4e7,"Controleert dat als de input een geldige operator is en er daarna een geldig getal met vervolgens een ongeldig getal wordt ingevoerd, de tekst `geen getal` of `geen nummer` wordt geprint naar de commandline. Let op: deze controle is hoofdletter gevoelig.",nl
+00076265-0e5d-11ec-a943-4213e7ee7fac,25078a26-b064-11ea-a2fb-cec41367f4e7,"Controleert dat als de input de `+` operator is en er daarna twee getallen worden ingevoerd, het resultaat wordt uitgeprint op de commandline",nl
+00079dbd-e36f-47a0-bd78-8959dbcba7d9,931246a4-bf6a-11ea-a2fb-cec41367f4e7,,nl
+00079dbd-e36f-47a0-bd78-8959dbcba7d9,931246a4-bf6a-11ea-a2fb-cec41367f4e7,Als er geen argument wordt meegegeven krijgt de gebruiker een melding: `Geen wisselgeld`,nl
+00079dbd-e36f-47a0-bd78-8959dbcba7d9,931246a4-bf6a-11ea-a2fb-cec41367f4e7,Als er een geldig argument wordt meegegeven dan wordt het argument in euro's uitgeprint.,nl
+0007a8b5-93e7-4d08-82fa-713f4ecacad8,01e67293-aca8-11eb-89a3-4213e7ee7fac,,nl
+0007a8b5-93e7-4d08-82fa-713f4ecacad8,789f0a4e-aca8-11eb-89a3-4213e7ee7fac,,nl
+0007a8b5-93e7-4d08-82fa-713f4ecacad8,789f0a4e-aca8-11eb-89a3-4213e7ee7fac,,nl
+0007b9ad-4e76-4d4d-b994-e07a43fd398a,4df3aa00-6bb3-11eb-b0f7-4213e7ee7fac,,nl
+0007b9ad-4e76-4d4d-b994-e07a43fd398a,4df3aa00-6bb3-11eb-b0f7-4213e7ee7fac,,nl
+0007b9ad-4e76-4d4d-b994-e07a43fd398a,4df3aa00-6bb3-11eb-b0f7-4213e7ee7fac,,nl
+0007df20-c6df-415a-a7b2-fc128d4672ee,89f57749-1ea4-4783-9b02-80aed48df051,,nl
+0007e4ff-945b-4905-a20c-f0a24dd4d0ed,a6283acc-bf77-11ea-a2fb-cec41367f4e7,,nl
+0007e4ff-945b-4905-a20c-f0a24dd4d0ed,a6283acc-bf77-11ea-a2fb-cec41367f4e7,,nl
+0007e4ff-945b-4905-a20c-f0a24dd4d0ed,a6283acc-bf77-11ea-a2fb-cec41367f4e7,,nl
+0007e4ff-945b-4905-a20c-f0a24dd4d0ed,a6283acc-bf77-11ea-a2fb-cec41367f4e7,,nl
+0007e4ff-945b-4905-a20c-f0a24dd4d0ed,a6283acc-bf77-11ea-a2fb-cec41367f4e7,,nl
+0007e9ed-1773-4bf5-8b7a-ee65b2f8ec57,0105f45a-b543-11ea-a2fb-cec41367f4e7,,nl
+000801b4-4725-4dcb-a20c-5d8cdfde9ac5,0777ef6f-b1f6-11ea-a2fb-cec41367f4e7,,nl
+000801b4-4725-4dcb-a20c-5d8cdfde9ac5,0777ef6f-b1f6-11ea-a2fb-cec41367f4e7,,nl
+00080ad3-c7d4-46aa-aac4-dc4df1f405dc,5180c43e-acc4-11eb-89a3-4213e7ee7fac,,nl
+00080ad3-c7d4-46aa-aac4-dc4df1f405dc,649b46b6-acc4-11eb-89a3-4213e7ee7fac,,nl
+00080ad3-c7d4-46aa-aac4-dc4df1f405dc,649b46b6-acc4-11eb-89a3-4213e7ee7fac,,nl
+000863f1-381c-47a3-8bd3-857082da9147,6e394bfb-d7f6-11ea-b861-cec41367f4e7,,nl
+000863f1-381c-47a3-8bd3-857082da9147,6e394bfb-d7f6-11ea-b861-cec41367f4e7,Deze test controleert dat de functie de volgende tekst print als je een ongeldig getal invoert: `Input moet een valide getal zijn`.,nl
+00086eea-9603-11eb-a3da-4213e7ee7fac,999b753a-bd1f-11ea-a2fb-cec41367f4e7,"Controleert dat als het getal `3` wordt ingevoerd er daarna drie keer om een naam en een droom gevraagd wordt. Pas als alle dromen zijn ingevoerd, worden deze uitgeprint op de commandline",nl
+00086eea-9603-11eb-a3da-4213e7ee7fac,999b753a-bd1f-11ea-a2fb-cec41367f4e7,"Controleert dat als eerst het getal `1`, daarna een naam en daarna een droom wordt ingevoerd, de naam en droom direct weer worden uigeprint op de commandline",nl
+00086eea-9603-11eb-a3da-4213e7ee7fac,999b753a-bd1f-11ea-a2fb-cec41367f4e7,,nl
+00086eea-9603-11eb-a3da-4213e7ee7fac,999b753a-bd1f-11ea-a2fb-cec41367f4e7,"Controleert dat als er een ongeldig getal wordt ingevoerd, `geen`, `fout`, `getal` of `niet` naar de commandline geprint wordt.",nl
+000890ff-b089-4590-9e15-096aebfedb32,64c6cfe8-27f8-11ec-abc5-4213e7ee7fac,,nl
+0008b1c9-ac55-4609-91b2-73eec66a80a4,2e803194-bf68-11ea-a2fb-cec41367f4e7,,nl
+0008b1c9-ac55-4609-91b2-73eec66a80a4,2e803194-bf68-11ea-a2fb-cec41367f4e7,Test of het programma het aantal seconden altijd correct berekent als er meerdere argumenten worden meegegeven.,nl
+0008b1c9-ac55-4609-91b2-73eec66a80a4,2e803194-bf68-11ea-a2fb-cec41367f4e7,Test of het programma het aantal seconden altijd correct berekent als er één argument wordt meegegeven.,nl
+0008b1c9-ac55-4609-91b2-73eec66a80a4,2e803194-bf68-11ea-a2fb-cec41367f4e7,,nl
+0008b1c9-ac55-4609-91b2-73eec66a80a4,2e803194-bf68-11ea-a2fb-cec41367f4e7,,nl
+0008b1c9-ac55-4609-91b2-73eec66a80a4,2e803194-bf68-11ea-a2fb-cec41367f4e7,Test of de uitwerking een foutmelding zonder getallen laat zien als er geen argument wordt meegegeven,nl
+0008e37f-fbec-11ea-9a3b-cec41367f4e7,81f820cc-afd9-11ea-a2fb-cec41367f4e7,,nl
+0008e37f-fbec-11ea-9a3b-cec41367f4e7,81f820cc-afd9-11ea-a2fb-cec41367f4e7,,nl
+0008e37f-fbec-11ea-9a3b-cec41367f4e7,81f820cc-afd9-11ea-a2fb-cec41367f4e7,,nl
+0008eb1a-eeac-43b8-8c75-85597f98eea9,718c0731-418b-11ed-863f-4213e7ee7fac,,nl
+0008fecc-45da-4613-ad49-d7c440dceb9d,7c545f2d-fd10-11ec-9175-4213e7ee7fac,,nl
+000902a3-ec33-4c70-9422-9fe99a734be6,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,nl
+000902a3-ec33-4c70-9422-9fe99a734be6,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,nl
+000902a3-ec33-4c70-9422-9fe99a734be6,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,nl
+000902a3-ec33-4c70-9422-9fe99a734be6,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,nl
+000902a3-ec33-4c70-9422-9fe99a734be6,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,nl
+0009123d-942b-42a5-95b3-2b5b7cc5a225,11d65cf8-00ef-11ed-9175-4213e7ee7fac,,nl
+0009123d-942b-42a5-95b3-2b5b7cc5a225,b86b2854-fd0d-11ec-9175-4213e7ee7fac,De variabele 'hoofdstad' wordt gedeclareerd.,nl
+0009123d-942b-42a5-95b3-2b5b7cc5a225,b86b2854-fd0d-11ec-9175-4213e7ee7fac,De waarde van hoofdstad wordt twee keer gelogd.,nl
+0009123d-942b-42a5-95b3-2b5b7cc5a225,b86b2854-fd0d-11ec-9175-4213e7ee7fac,De waarde van hoofdstad wordt veranderd naar Parijs.,nl
+0009161a-a19c-4f9e-9498-8e36d2b645d7,34138dbe-b47d-11ea-a2fb-cec41367f4e7,,nl
+0009161a-a19c-4f9e-9498-8e36d2b645d7,34138dbe-b47d-11ea-a2fb-cec41367f4e7,,nl
+0009161a-a19c-4f9e-9498-8e36d2b645d7,34138dbe-b47d-11ea-a2fb-cec41367f4e7,,nl
+0009161a-a19c-4f9e-9498-8e36d2b645d7,34138dbe-b47d-11ea-a2fb-cec41367f4e7,,nl
+0009161a-a19c-4f9e-9498-8e36d2b645d7,34138dbe-b47d-11ea-a2fb-cec41367f4e7,,nl
+0009178b-b643-11eb-bc2f-4213e7ee7fac,5180c43e-acc4-11eb-89a3-4213e7ee7fac,,nl
+0009178b-b643-11eb-bc2f-4213e7ee7fac,649b46b6-acc4-11eb-89a3-4213e7ee7fac,,nl
+0009178b-b643-11eb-bc2f-4213e7ee7fac,649b46b6-acc4-11eb-89a3-4213e7ee7fac,,nl
+00091e2d-0313-4a46-a316-729b928b84f3,3864fe6e-67bc-11eb-b0f7-4213e7ee7fac,,nl
+00091e2d-0313-4a46-a316-729b928b84f3,3864fe6e-67bc-11eb-b0f7-4213e7ee7fac,,nl
+00091e2d-0313-4a46-a316-729b928b84f3,3864fe6e-67bc-11eb-b0f7-4213e7ee7fac,,nl
+00091e2d-0313-4a46-a316-729b928b84f3,3864fe6e-67bc-11eb-b0f7-4213e7ee7fac,,nl
+00091e2d-0313-4a46-a316-729b928b84f3,3864fe6e-67bc-11eb-b0f7-4213e7ee7fac,,nl
+00091e2d-0313-4a46-a316-729b928b84f3,3864fe6e-67bc-11eb-b0f7-4213e7ee7fac,,nl
+00091e2d-0313-4a46-a316-729b928b84f3,3864fe6e-67bc-11eb-b0f7-4213e7ee7fac,,nl
+00091e2d-0313-4a46-a316-729b928b84f3,e233d327-7698-11eb-ac8e-4213e7ee7fac,"Het mislukken van de testen komt meestal door een fout in jouw code: bijvoorbeeld 
+door een oneindige loop of een crash.
+Test je code nogmaals zorgvuldig op je eigen computer en controleer of jouw uitwerking 
+op dezelfde manier werkt als de verwachte uitkomst.
+
+Blijf je tegen dit probleem aanlopen? Neem dan contact op met je coach.",nl
+00094f5d-0ceb-42a1-8bec-2e8c71bbf180,6f6769bf-afd0-11ea-a2fb-cec41367f4e7,Hier wordt gecontroleerd of het programma als output de tekst `Hello world` print. Let op dat deze controle hoofdletter gevoelig is.,nl
+00096bf3-6ce8-4086-935c-98a446d3d02e,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,nl
+00096bf3-6ce8-4086-935c-98a446d3d02e,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,Controleert: `100 keer 2 = 200`,nl
+00096bf3-6ce8-4086-935c-98a446d3d02e,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,Controleert: `-10 keer 2 = -20`,nl
+00096bf3-6ce8-4086-935c-98a446d3d02e,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,Controleert dat twee willekeurige getallen met elkaar vermenigvuldigen ook werkt,nl
+00096bf3-6ce8-4086-935c-98a446d3d02e,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,Controleert: `10 keer 10 = 100`,nl
+00098368-e4f2-419e-a3ad-f0d37c0130fa,ba9b2e66-bf7b-11ea-a2fb-cec41367f4e7,,nl
+00098368-e4f2-419e-a3ad-f0d37c0130fa,ba9b2e66-bf7b-11ea-a2fb-cec41367f4e7,,nl
+00098368-e4f2-419e-a3ad-f0d37c0130fa,ba9b2e66-bf7b-11ea-a2fb-cec41367f4e7,,nl
+00098368-e4f2-419e-a3ad-f0d37c0130fa,ba9b2e66-bf7b-11ea-a2fb-cec41367f4e7,,nl
+00098368-e4f2-419e-a3ad-f0d37c0130fa,ba9b2e66-bf7b-11ea-a2fb-cec41367f4e7,,nl
+0009895d-70f1-4a7e-942b-e7c47fad5219,6f1f8021-b47a-11ea-a2fb-cec41367f4e7,,nl
+0009895d-70f1-4a7e-942b-e7c47fad5219,6f1f8021-b47a-11ea-a2fb-cec41367f4e7,,nl
+0009895d-70f1-4a7e-942b-e7c47fad5219,6f1f8021-b47a-11ea-a2fb-cec41367f4e7,,nl
+0009d73c-1485-11ec-be5a-4213e7ee7fac,1e671636-b544-11ea-a2fb-cec41367f4e7,,nl
+0009d73c-1485-11ec-be5a-4213e7ee7fac,1e671636-b544-11ea-a2fb-cec41367f4e7,,nl
+0009d73c-1485-11ec-be5a-4213e7ee7fac,1e671636-b544-11ea-a2fb-cec41367f4e7,,nl
+0009d73c-1485-11ec-be5a-4213e7ee7fac,1e671636-b544-11ea-a2fb-cec41367f4e7,,nl
+0009d73c-1485-11ec-be5a-4213e7ee7fac,1e671636-b544-11ea-a2fb-cec41367f4e7,,nl
+0009d73c-1485-11ec-be5a-4213e7ee7fac,1e671636-b544-11ea-a2fb-cec41367f4e7,,nl
+0009d73c-1485-11ec-be5a-4213e7ee7fac,1e671636-b544-11ea-a2fb-cec41367f4e7,,nl
+0009d73c-1485-11ec-be5a-4213e7ee7fac,1e671636-b544-11ea-a2fb-cec41367f4e7,,nl
+0009e508-aebc-11eb-b248-4213e7ee7fac,994afabd-6cb4-11eb-ac8e-4213e7ee7fac,Hier wordt getest of de lootbox goed wordt weergegeven als er 5 common skins zitten in de lootbox.,nl
+0009e508-aebc-11eb-b248-4213e7ee7fac,994afabd-6cb4-11eb-ac8e-4213e7ee7fac,Hier wordt getest of de lootbox goed wordt weergegeven als er 5 epic skins zitten in de lootbox.,nl
+0009e508-aebc-11eb-b248-4213e7ee7fac,994afabd-6cb4-11eb-ac8e-4213e7ee7fac,Hier wordt getest of de lootbox goed wordt weergegeven als er 5 rare skins zitten in de lootbox.,nl
+0009e508-aebc-11eb-b248-4213e7ee7fac,994afabd-6cb4-11eb-ac8e-4213e7ee7fac,Hier wordt getest of een lootbox met elk type skin goed wordt weergegeven.,nl
+0009e508-aebc-11eb-b248-4213e7ee7fac,994afabd-6cb4-11eb-ac8e-4213e7ee7fac,Hier wordt een willekeurige lootbox getest zonder specifieke eigenschappen.,nl
+0009e508-aebc-11eb-b248-4213e7ee7fac,a52fb637-6b1d-11eb-b0f7-4213e7ee7fac,,nl
+0009e5a1-8370-4ef1-8ee5-a010e156d0d2,c98900da-6b1c-11eb-b0f7-4213e7ee7fac,,nl
+0009e5a1-8370-4ef1-8ee5-a010e156d0d2,f088d891-6b19-11eb-b0f7-4213e7ee7fac,,nl
+0009e5a1-8370-4ef1-8ee5-a010e156d0d2,f088d891-6b19-11eb-b0f7-4213e7ee7fac,,nl
+0009e5a1-8370-4ef1-8ee5-a010e156d0d2,f088d891-6b19-11eb-b0f7-4213e7ee7fac,,nl
+0009e9d3-8ca2-11eb-a3da-4213e7ee7fac,29c0a7fc-bd21-11ea-a2fb-cec41367f4e7,,nl
+0009e9d3-8ca2-11eb-a3da-4213e7ee7fac,29c0a7fc-bd21-11ea-a2fb-cec41367f4e7,,nl
+0009e9d3-8ca2-11eb-a3da-4213e7ee7fac,29c0a7fc-bd21-11ea-a2fb-cec41367f4e7,,nl
+0009feae-79fb-11eb-ac8e-4213e7ee7fac,cad5d1de-b543-11ea-a2fb-cec41367f4e7,,nl
+0009feae-79fb-11eb-ac8e-4213e7ee7fac,cad5d1de-b543-11ea-a2fb-cec41367f4e7,,nl
+0009feae-79fb-11eb-ac8e-4213e7ee7fac,cad5d1de-b543-11ea-a2fb-cec41367f4e7,,nl
+0009feae-79fb-11eb-ac8e-4213e7ee7fac,cad5d1de-b543-11ea-a2fb-cec41367f4e7,,nl
+0009feae-79fb-11eb-ac8e-4213e7ee7fac,cad5d1de-b543-11ea-a2fb-cec41367f4e7,,nl
+0009feae-79fb-11eb-ac8e-4213e7ee7fac,cad5d1de-b543-11ea-a2fb-cec41367f4e7,,nl
+000a0cf6-8c1d-11eb-a3da-4213e7ee7fac,994afabd-6cb4-11eb-ac8e-4213e7ee7fac,,nl
+000a0cf6-8c1d-11eb-a3da-4213e7ee7fac,994afabd-6cb4-11eb-ac8e-4213e7ee7fac,,nl
+000a0cf6-8c1d-11eb-a3da-4213e7ee7fac,994afabd-6cb4-11eb-ac8e-4213e7ee7fac,,nl
+000a0cf6-8c1d-11eb-a3da-4213e7ee7fac,994afabd-6cb4-11eb-ac8e-4213e7ee7fac,,nl
+000a0cf6-8c1d-11eb-a3da-4213e7ee7fac,994afabd-6cb4-11eb-ac8e-4213e7ee7fac,,nl
+000a0cf6-8c1d-11eb-a3da-4213e7ee7fac,a52fb637-6b1d-11eb-b0f7-4213e7ee7fac,,nl
+000a1d7f-b17d-4168-8913-483cd19526ad,ec9cd996-381e-11ed-b522-4213e7ee7fac,,nl
+000a2f1d-90e6-4949-a7ed-6e1b2f8990e3,e5d069ab-f114-11eb-978a-4213e7ee7fac,,nl
+000a31b0-eaca-42cf-b637-9a414700da6d,aab8d456-27fa-11ec-abc5-4213e7ee7fac,,nl
+000a3957-47e0-4c03-ad54-ec4d7a649366,d27bc3ba-b47a-11ea-a2fb-cec41367f4e7,,nl
+000a3957-47e0-4c03-ad54-ec4d7a649366,d27bc3ba-b47a-11ea-a2fb-cec41367f4e7,,nl
+000a3957-47e0-4c03-ad54-ec4d7a649366,d27bc3ba-b47a-11ea-a2fb-cec41367f4e7,,nl
+000a3957-47e0-4c03-ad54-ec4d7a649366,d27bc3ba-b47a-11ea-a2fb-cec41367f4e7,,nl
+000a3957-47e0-4c03-ad54-ec4d7a649366,d27bc3ba-b47a-11ea-a2fb-cec41367f4e7,,nl
+000a4068-9074-11eb-a3da-4213e7ee7fac,6c9bfa2f-b543-11ea-a2fb-cec41367f4e7,,nl
+000a4068-9074-11eb-a3da-4213e7ee7fac,6c9bfa2f-b543-11ea-a2fb-cec41367f4e7,,nl
+000a4068-9074-11eb-a3da-4213e7ee7fac,6c9bfa2f-b543-11ea-a2fb-cec41367f4e7,,nl
+000a4068-9074-11eb-a3da-4213e7ee7fac,6c9bfa2f-b543-11ea-a2fb-cec41367f4e7,,nl
+000a4068-9074-11eb-a3da-4213e7ee7fac,6c9bfa2f-b543-11ea-a2fb-cec41367f4e7,Hier wordt gecontroleerd of er een input is met type 'text',nl
+000a45a7-087a-11eb-9a3b-cec41367f4e7,9018e1ce-b071-11ea-a2fb-cec41367f4e7,,nl
+000a45a7-087a-11eb-9a3b-cec41367f4e7,9018e1ce-b071-11ea-a2fb-cec41367f4e7,,nl
+000a45a7-087a-11eb-9a3b-cec41367f4e7,9018e1ce-b071-11ea-a2fb-cec41367f4e7,,nl
+000acc6b-d451-11eb-bac0-4213e7ee7fac,6e0266c1-67bc-11eb-b0f7-4213e7ee7fac,,nl
+000acc6b-d451-11eb-bac0-4213e7ee7fac,6e0266c1-67bc-11eb-b0f7-4213e7ee7fac,,nl
+000acc6b-d451-11eb-bac0-4213e7ee7fac,6e0266c1-67bc-11eb-b0f7-4213e7ee7fac,,nl
+000ad064-a1ee-4ef3-997e-3fe75cd6d9ea,9018e1ce-b071-11ea-a2fb-cec41367f4e7,,nl
+000ad064-a1ee-4ef3-997e-3fe75cd6d9ea,9018e1ce-b071-11ea-a2fb-cec41367f4e7,,nl
+000ad064-a1ee-4ef3-997e-3fe75cd6d9ea,9018e1ce-b071-11ea-a2fb-cec41367f4e7,,nl
+000ae183-ceb1-4143-8375-ae6cb1b8e48d,a6283acc-bf77-11ea-a2fb-cec41367f4e7,,nl
+000ae183-ceb1-4143-8375-ae6cb1b8e48d,a6283acc-bf77-11ea-a2fb-cec41367f4e7,,nl
+000ae183-ceb1-4143-8375-ae6cb1b8e48d,a6283acc-bf77-11ea-a2fb-cec41367f4e7,,nl
+000ae183-ceb1-4143-8375-ae6cb1b8e48d,a6283acc-bf77-11ea-a2fb-cec41367f4e7,Als er geen argument wordt meegegeven krijgt de gebruiker een melding: `Geen wisselgeld`,nl
+000ae183-ceb1-4143-8375-ae6cb1b8e48d,a6283acc-bf77-11ea-a2fb-cec41367f4e7,Als er een geldig getal wordt meegeven als parameter (bijv. 7) dan wordt het wisselgeld per waarde op een nieuwe regel geprint. Bij 7 krijg je dus als output: <br/> 1 x 5 euro<br/> 1 x 2 euro,nl
+000aeb85-3f48-464b-ad30-ffe146ebee7d,cad5d1de-b543-11ea-a2fb-cec41367f4e7,,nl
+000aeb85-3f48-464b-ad30-ffe146ebee7d,cad5d1de-b543-11ea-a2fb-cec41367f4e7,,nl
+000aeb85-3f48-464b-ad30-ffe146ebee7d,cad5d1de-b543-11ea-a2fb-cec41367f4e7,,nl
+000aeb85-3f48-464b-ad30-ffe146ebee7d,cad5d1de-b543-11ea-a2fb-cec41367f4e7,,nl
+000aeb85-3f48-464b-ad30-ffe146ebee7d,cad5d1de-b543-11ea-a2fb-cec41367f4e7,,nl
+000aeb85-3f48-464b-ad30-ffe146ebee7d,cad5d1de-b543-11ea-a2fb-cec41367f4e7,,nl
+000af36c-827c-4541-ac32-f18ba9d108d4,6c802df5-acf1-11eb-89a3-4213e7ee7fac,"Het mislukken van de testen komt meestal door een fout in jouw code. Bijvoorbeeld door:
+    - een oneindige loop
+    - een onverwachte crash
+    - een syntax fout 
+    
+Test je code nogmaals zorgvuldig op je eigen computer en controleer of jouw uitwerking op dezelfde manier werkt als de verwachte uitkomst.
+
+Blijf je tegen dit probleem aanlopen? Neem dan contact op met je coach.",nl
+000af36c-827c-4541-ac32-f18ba9d108d4,f68f2cc7-acef-11eb-89a3-4213e7ee7fac,,nl
+000af36c-827c-4541-ac32-f18ba9d108d4,f68f2cc7-acef-11eb-89a3-4213e7ee7fac,,nl
+000b4b67-a117-11eb-89a3-4213e7ee7fac,eec845f9-6d0e-11eb-ac8e-4213e7ee7fac,,nl
+000b4b67-a117-11eb-89a3-4213e7ee7fac,eec845f9-6d0e-11eb-ac8e-4213e7ee7fac,,nl
+000b4b67-a117-11eb-89a3-4213e7ee7fac,eec845f9-6d0e-11eb-ac8e-4213e7ee7fac,,nl
+000b56a8-83e4-447d-af2d-abe0742a386f,cebca1a4-ae67-11eb-b248-4213e7ee7fac,,nl
+000b56a8-83e4-447d-af2d-abe0742a386f,e27b518a-ae68-11eb-b248-4213e7ee7fac,,nl
+000b6c14-8d6d-4028-959b-7d319f9fb2cd,d0135837-165a-471c-adc2-db478948e147,,nl
+000b76bb-e9c4-463a-87ac-ee4f1301f2b2,d27bc3ba-b47a-11ea-a2fb-cec41367f4e7,,nl
+000b76bb-e9c4-463a-87ac-ee4f1301f2b2,d27bc3ba-b47a-11ea-a2fb-cec41367f4e7,,nl
+000b76bb-e9c4-463a-87ac-ee4f1301f2b2,d27bc3ba-b47a-11ea-a2fb-cec41367f4e7,,nl
+000b76bb-e9c4-463a-87ac-ee4f1301f2b2,d27bc3ba-b47a-11ea-a2fb-cec41367f4e7,,nl
+000b76bb-e9c4-463a-87ac-ee4f1301f2b2,d27bc3ba-b47a-11ea-a2fb-cec41367f4e7,,nl
+000b9264-e46c-43d6-829a-ec735b3b2084,10c3a810-bd33-11ea-a2fb-cec41367f4e7,,nl
+000b9264-e46c-43d6-829a-ec735b3b2084,10c3a810-bd33-11ea-a2fb-cec41367f4e7,,nl
+000b9264-e46c-43d6-829a-ec735b3b2084,10c3a810-bd33-11ea-a2fb-cec41367f4e7,,nl
+000b9264-e46c-43d6-829a-ec735b3b2084,10c3a810-bd33-11ea-a2fb-cec41367f4e7,,nl
+000b9264-e46c-43d6-829a-ec735b3b2084,10c3a810-bd33-11ea-a2fb-cec41367f4e7,,nl
+000b95da-5de7-485c-9eff-5b6357602d78,312941f8-b542-11ea-a2fb-cec41367f4e7,,nl
+000b95da-5de7-485c-9eff-5b6357602d78,312941f8-b542-11ea-a2fb-cec41367f4e7,,nl
+000b95da-5de7-485c-9eff-5b6357602d78,312941f8-b542-11ea-a2fb-cec41367f4e7,,nl
+000b95da-5de7-485c-9eff-5b6357602d78,312941f8-b542-11ea-a2fb-cec41367f4e7,,nl
+000b95da-5de7-485c-9eff-5b6357602d78,312941f8-b542-11ea-a2fb-cec41367f4e7,,nl
+000ba3f6-d0be-433e-b67e-db6f54105ffd,014cda7b-b47d-11ea-a2fb-cec41367f4e7,,nl
+000ba3f6-d0be-433e-b67e-db6f54105ffd,014cda7b-b47d-11ea-a2fb-cec41367f4e7,,nl
+000ba3f6-d0be-433e-b67e-db6f54105ffd,014cda7b-b47d-11ea-a2fb-cec41367f4e7,,nl
+000ba3f6-d0be-433e-b67e-db6f54105ffd,014cda7b-b47d-11ea-a2fb-cec41367f4e7,,nl
+000ba3f6-d0be-433e-b67e-db6f54105ffd,014cda7b-b47d-11ea-a2fb-cec41367f4e7,,nl
+000bac8e-ea82-4a88-a147-884e842c6946,25078a26-b064-11ea-a2fb-cec41367f4e7,,nl
+000bac8e-ea82-4a88-a147-884e842c6946,25078a26-b064-11ea-a2fb-cec41367f4e7,,nl
+000bac8e-ea82-4a88-a147-884e842c6946,25078a26-b064-11ea-a2fb-cec41367f4e7,"Controleert dat als de input een geldige operator is en er daarna een ongeldig getal wordt ingevoerd, de tekst `geen getal` of `geen nummer` wordt geprint naar de commandline. Let op: deze controle is hoofdletter gevoelig.",nl
+000bac8e-ea82-4a88-a147-884e842c6946,25078a26-b064-11ea-a2fb-cec41367f4e7,"Controleert dat als de input een ongeldige operator is en er daarna twee getallen worden ingevoerd, de tekst `geen geldige operatie` wordt geprint naar de commandline",nl
+000bac8e-ea82-4a88-a147-884e842c6946,25078a26-b064-11ea-a2fb-cec41367f4e7,"Controleert dat als de input een geldige operator is en er daarna een geldig getal met vervolgens een ongeldig getal wordt ingevoerd, de tekst `geen getal` of `geen nummer` wordt geprint naar de commandline. Let op: deze controle is hoofdletter gevoelig.",nl
+000bac8e-ea82-4a88-a147-884e842c6946,25078a26-b064-11ea-a2fb-cec41367f4e7,,nl
+000bb1d2-3f67-4ea7-abc6-eeaa2fc8073f,34c48112-acc1-11eb-89a3-4213e7ee7fac,,nl
+000bb1d2-3f67-4ea7-abc6-eeaa2fc8073f,3a4e706f-acc1-11eb-89a3-4213e7ee7fac,,nl
+000bf4c6-f801-4aa5-abf9-dc8e3d887cf7,8bffc7d2-c9aa-11eb-bac0-4213e7ee7fac,,nl
+000bf4c6-f801-4aa5-abf9-dc8e3d887cf7,8bffc7d2-c9aa-11eb-bac0-4213e7ee7fac,Deze test controleert of het index.html bestand de tekst `Hallo wereld!` bevat,nl
+000c58f7-f989-4d66-95b6-ab27c27d1f96,c82728c7-afd9-11ea-a2fb-cec41367f4e7,Hier wordt gecontroleerd dat je programma de `-` operator en daarna twee random getallen als input kan nemen en deze van elkaar aftrekt,nl
+000c58f7-f989-4d66-95b6-ab27c27d1f96,c82728c7-afd9-11ea-a2fb-cec41367f4e7,,nl
+000c5f4a-2a99-4357-aa07-ac3a35307445,81f820cc-afd9-11ea-a2fb-cec41367f4e7,"Hier wordt gecontroleerd dat als je `15` als input geeft, je programma `Helaas` uitprint.",nl
+000c5f4a-2a99-4357-aa07-ac3a35307445,81f820cc-afd9-11ea-a2fb-cec41367f4e7,,nl
+000c5f4a-2a99-4357-aa07-ac3a35307445,81f820cc-afd9-11ea-a2fb-cec41367f4e7,,nl
+000c6b1d-b696-4da3-b90d-402c41d05bd9,aab8d456-27fa-11ec-abc5-4213e7ee7fac,Je gebruikt `SELECT` in je sql bestand,nl
+000c811e-20f5-4024-8492-0a7c50e87b06,606f0d67-afd4-11ea-a2fb-cec41367f4e7,,nl
+000c811e-20f5-4024-8492-0a7c50e87b06,606f0d67-afd4-11ea-a2fb-cec41367f4e7,Deze test valideert dat de tekst die wordt toegekend aan de `tekst` variabele vijf keer wordt uitgeprint op een nieuwe regel. De nieuwe regel kan je maken met de PHP_EOL constante.,nl
+000c8ee5-7264-4a2d-b338-0db7353d1ec0,ba9b2e66-bf7b-11ea-a2fb-cec41367f4e7,,nl
+000c8ee5-7264-4a2d-b338-0db7353d1ec0,ba9b2e66-bf7b-11ea-a2fb-cec41367f4e7,,nl
+000c8ee5-7264-4a2d-b338-0db7353d1ec0,ba9b2e66-bf7b-11ea-a2fb-cec41367f4e7,,nl
+000c8ee5-7264-4a2d-b338-0db7353d1ec0,ba9b2e66-bf7b-11ea-a2fb-cec41367f4e7,,nl
+000c8ee5-7264-4a2d-b338-0db7353d1ec0,ba9b2e66-bf7b-11ea-a2fb-cec41367f4e7,,nl
+000cdb06-9462-4e55-80cb-950a735ea62d,1118724a-bf79-11ea-a2fb-cec41367f4e7,,nl
+000cdb06-9462-4e55-80cb-950a735ea62d,1118724a-bf79-11ea-a2fb-cec41367f4e7,,nl
+000cdb06-9462-4e55-80cb-950a735ea62d,1118724a-bf79-11ea-a2fb-cec41367f4e7,,nl
+000cdb06-9462-4e55-80cb-950a735ea62d,1118724a-bf79-11ea-a2fb-cec41367f4e7,,nl
+000d2308-f8d7-48f1-8895-6515d5a08a4f,312941f8-b542-11ea-a2fb-cec41367f4e7,,nl
+000d2308-f8d7-48f1-8895-6515d5a08a4f,312941f8-b542-11ea-a2fb-cec41367f4e7,,nl
+000d2308-f8d7-48f1-8895-6515d5a08a4f,312941f8-b542-11ea-a2fb-cec41367f4e7,,nl
+000d2308-f8d7-48f1-8895-6515d5a08a4f,312941f8-b542-11ea-a2fb-cec41367f4e7,,nl
+000d2308-f8d7-48f1-8895-6515d5a08a4f,312941f8-b542-11ea-a2fb-cec41367f4e7,,nl
+000d45a3-aa2d-4c56-b1d7-800448dc413e,a987a232-67bb-11eb-b0f7-4213e7ee7fac,,nl
+000d45a3-aa2d-4c56-b1d7-800448dc413e,a987a232-67bb-11eb-b0f7-4213e7ee7fac,,nl
+000d45a3-aa2d-4c56-b1d7-800448dc413e,a987a232-67bb-11eb-b0f7-4213e7ee7fac,,nl
+000d45a3-aa2d-4c56-b1d7-800448dc413e,a987a232-67bb-11eb-b0f7-4213e7ee7fac,,nl
+000d45a3-aa2d-4c56-b1d7-800448dc413e,ade2c07b-70ac-11eb-ac8e-4213e7ee7fac,,nl
+000d45a3-aa2d-4c56-b1d7-800448dc413e,ade2c07b-70ac-11eb-ac8e-4213e7ee7fac,,nl
+000d45a3-aa2d-4c56-b1d7-800448dc413e,ade2c07b-70ac-11eb-ac8e-4213e7ee7fac,,nl
+000d45a3-aa2d-4c56-b1d7-800448dc413e,ade2c07b-70ac-11eb-ac8e-4213e7ee7fac,,nl
+000d45a3-aa2d-4c56-b1d7-800448dc413e,ade2c07b-70ac-11eb-ac8e-4213e7ee7fac,,nl
+000d45a3-aa2d-4c56-b1d7-800448dc413e,ade2c07b-70ac-11eb-ac8e-4213e7ee7fac,,nl
+000d5ada-55ce-4e70-98f4-2c77a4eb9fe4,a39f844a-17e4-11ed-b4d0-4213e7ee7fac,,nl
+000d5ada-55ce-4e70-98f4-2c77a4eb9fe4,a39f844a-17e4-11ed-b4d0-4213e7ee7fac,,nl
+000da606-fbfb-11ea-9a3b-cec41367f4e7,3333dedb-afd7-11ea-a2fb-cec41367f4e7,,nl
+000da606-fbfb-11ea-9a3b-cec41367f4e7,3333dedb-afd7-11ea-a2fb-cec41367f4e7,,nl
+000e54ef-09c7-4263-9cc5-e9c846c6f588,6e1d0d52-b547-11ea-a2fb-cec41367f4e7,,nl
+000e54ef-09c7-4263-9cc5-e9c846c6f588,6e1d0d52-b547-11ea-a2fb-cec41367f4e7,,nl
+000e5efe-59f1-4b4a-a499-ce70cb48e490,cad5d1de-b543-11ea-a2fb-cec41367f4e7,,nl
+000e5efe-59f1-4b4a-a499-ce70cb48e490,cad5d1de-b543-11ea-a2fb-cec41367f4e7,,nl
+000e5efe-59f1-4b4a-a499-ce70cb48e490,cad5d1de-b543-11ea-a2fb-cec41367f4e7,,nl
+000e5efe-59f1-4b4a-a499-ce70cb48e490,cad5d1de-b543-11ea-a2fb-cec41367f4e7,,nl
+000e5efe-59f1-4b4a-a499-ce70cb48e490,cad5d1de-b543-11ea-a2fb-cec41367f4e7,,nl
+000e5efe-59f1-4b4a-a499-ce70cb48e490,cad5d1de-b543-11ea-a2fb-cec41367f4e7,,nl
+000e6072-d63d-489f-8fa8-3ceade8ef182,822aedfc-1880-11ed-b4d0-4213e7ee7fac,,nl
+000e75d4-b036-4f80-ad39-52378a387adf,af69985b-b063-11ea-a2fb-cec41367f4e7,"Controleert dat als de input een even getal is, het programma `een even getal` print en niet `een oneven getal`. Deze controle is niet hoofdletter gevoelig.",nl
+000e75d4-b036-4f80-ad39-52378a387adf,af69985b-b063-11ea-a2fb-cec41367f4e7,"Controleert dat als de input een oneven getal is, het programma `een oneven getal` print en niet `een even getal`. Deze controle is niet hoofdletter gevoelig.",nl
+000e798f-5164-4164-8e0b-c9e778d3a149,a77d3e9c-27f7-11ec-abc5-4213e7ee7fac,,nl
+000ec295-4586-4c02-8861-e24ed2c37bd8,963a6e88-1d47-11ed-b4d0-4213e7ee7fac,,nl
+000ec295-4586-4c02-8861-e24ed2c37bd8,963a6e88-1d47-11ed-b4d0-4213e7ee7fac,,nl
+000ecb3b-16a9-4e42-a0cd-beefd6f89868,559e5891-bb69-11ea-a2fb-cec41367f4e7,,nl
+000ecb3b-16a9-4e42-a0cd-beefd6f89868,559e5891-bb69-11ea-a2fb-cec41367f4e7,,nl
+000ecb3b-16a9-4e42-a0cd-beefd6f89868,559e5891-bb69-11ea-a2fb-cec41367f4e7,,nl
+000ee747-5990-4890-a3ea-175c7c12f61e,adce23e1-22d7-11ed-b4d0-4213e7ee7fac,,nl
+000ee747-5990-4890-a3ea-175c7c12f61e,adce23e1-22d7-11ed-b4d0-4213e7ee7fac,,nl
+000ee747-5990-4890-a3ea-175c7c12f61e,adce23e1-22d7-11ed-b4d0-4213e7ee7fac,,nl
+000ee747-5990-4890-a3ea-175c7c12f61e,adce23e1-22d7-11ed-b4d0-4213e7ee7fac,,nl
+000ee747-5990-4890-a3ea-175c7c12f61e,adce23e1-22d7-11ed-b4d0-4213e7ee7fac,,nl
+000ee747-5990-4890-a3ea-175c7c12f61e,adce23e1-22d7-11ed-b4d0-4213e7ee7fac,,nl
+000f065c-dd0c-4683-bf91-05398e39e33b,021f0939-22bc-11ed-b4d0-4213e7ee7fac,,nl
+000f065c-dd0c-4683-bf91-05398e39e33b,021f0939-22bc-11ed-b4d0-4213e7ee7fac,,nl
+000f065c-dd0c-4683-bf91-05398e39e33b,021f0939-22bc-11ed-b4d0-4213e7ee7fac,,nl
+000f065c-dd0c-4683-bf91-05398e39e33b,021f0939-22bc-11ed-b4d0-4213e7ee7fac,,nl
+000f065c-dd0c-4683-bf91-05398e39e33b,021f0939-22bc-11ed-b4d0-4213e7ee7fac,,nl
+000f065c-dd0c-4683-bf91-05398e39e33b,021f0939-22bc-11ed-b4d0-4213e7ee7fac,,nl
+000f4935-7c5f-4218-9e48-ac8342127593,64c6cfe8-27f8-11ec-abc5-4213e7ee7fac,,nl
+000f49e9-77b3-4386-a05c-dc105d806a62,d0671fb7-b064-11ea-a2fb-cec41367f4e7,,nl
+000f49e9-77b3-4386-a05c-dc105d806a62,d0671fb7-b064-11ea-a2fb-cec41367f4e7,,nl
+000f822d-858c-11eb-a3da-4213e7ee7fac,9baf4ba5-6baf-11eb-b0f7-4213e7ee7fac,,nl
+000fb362-a100-11eb-89a3-4213e7ee7fac,10c3a810-bd33-11ea-a2fb-cec41367f4e7,,nl
+000fb362-a100-11eb-89a3-4213e7ee7fac,10c3a810-bd33-11ea-a2fb-cec41367f4e7,,nl
+000fb362-a100-11eb-89a3-4213e7ee7fac,10c3a810-bd33-11ea-a2fb-cec41367f4e7,,nl
+000fb362-a100-11eb-89a3-4213e7ee7fac,10c3a810-bd33-11ea-a2fb-cec41367f4e7,,nl
+000fb362-a100-11eb-89a3-4213e7ee7fac,10c3a810-bd33-11ea-a2fb-cec41367f4e7,,nl
+000fb77f-24fc-4388-b59d-5b14b62a4e73,d4efbec1-abee-11eb-89a3-4213e7ee7fac,,nl
+000fb77f-24fc-4388-b59d-5b14b62a4e73,dff3b442-abee-11eb-89a3-4213e7ee7fac,,nl
+000fcd33-70e8-4acb-bf9b-499f495491c7,991101de-2473-11ed-b4d0-4213e7ee7fac,,nl
+000fcd33-70e8-4acb-bf9b-499f495491c7,991101de-2473-11ed-b4d0-4213e7ee7fac,,nl
+000fcd33-70e8-4acb-bf9b-499f495491c7,991101de-2473-11ed-b4d0-4213e7ee7fac,,nl
+000fcd33-70e8-4acb-bf9b-499f495491c7,991101de-2473-11ed-b4d0-4213e7ee7fac,,nl
+000fcd33-70e8-4acb-bf9b-499f495491c7,991101de-2473-11ed-b4d0-4213e7ee7fac,,nl
+00100638-bef2-417e-8dbc-1d7af89b488d,ac2cadef-8d39-11eb-a3da-4213e7ee7fac,,nl
+00100638-bef2-417e-8dbc-1d7af89b488d,ac2cadef-8d39-11eb-a3da-4213e7ee7fac,,nl
+00100638-bef2-417e-8dbc-1d7af89b488d,ac2cadef-8d39-11eb-a3da-4213e7ee7fac,,nl
+00100638-bef2-417e-8dbc-1d7af89b488d,ac2cadef-8d39-11eb-a3da-4213e7ee7fac,,nl
+00100638-bef2-417e-8dbc-1d7af89b488d,ac2cadef-8d39-11eb-a3da-4213e7ee7fac,,nl
+00100638-bef2-417e-8dbc-1d7af89b488d,ac2cadef-8d39-11eb-a3da-4213e7ee7fac,,nl
+00100638-bef2-417e-8dbc-1d7af89b488d,f9b11231-67be-11eb-b0f7-4213e7ee7fac,,nl
+00103b5c-1137-47f9-85ba-999566de4c51,1e996f86-23b3-11ed-b4d0-4213e7ee7fac,,nl
+00103b5c-1137-47f9-85ba-999566de4c51,52d76475-1be8-11ed-b4d0-4213e7ee7fac,,nl
+00104332-8c78-479e-9f3c-9a5271cf83a3,2cb4a378-392c-11eb-8a52-4213e7ee7fac,,nl
+00104332-8c78-479e-9f3c-9a5271cf83a3,2cb4a378-392c-11eb-8a52-4213e7ee7fac,Hier wordt gecontroleerd of er gebruikt is gemaakt van `tr` en `td` elementen,nl
+0010497f-ad20-4d5f-bb2b-8e219eb5544b,11d65cf8-00ef-11ed-9175-4213e7ee7fac,,nl
+0010497f-ad20-4d5f-bb2b-8e219eb5544b,b86b2854-fd0d-11ec-9175-4213e7ee7fac,,nl
+018af9da-f786-708a-af5d-2c03337589d2,6f6769bf-afd0-11ea-a2fb-cec41367f4e7,,en
+018af9dc-3518-7a8a-961f-365eaa4a1ec3,6f6769bf-afd0-11ea-a2fb-cec41367f4e7,,en
+018af9e9-8d79-76be-981f-c17757dc7ba4,6f6769bf-afd0-11ea-a2fb-cec41367f4e7,,en
+018af9ea-fe36-7d47-b160-69480f772747,6f6769bf-afd0-11ea-a2fb-cec41367f4e7,,en
+018af9f1-971f-7852-97fc-291007813e2e,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test validates that the text assigned to the `text` variable is printed five times on a new line. You can create a new line with the PHP_EOL constant.,en
+018af9f1-971f-7852-97fc-291007813e2e,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test checks if a variable with the name `text` is present.,en
+018af9f3-b168-7483-a314-05dd508c5613,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test validates that the text assigned to the `text` variable is printed five times on a new line. You can create a new line with the PHP_EOL constant.,en
+018af9f3-b168-7483-a314-05dd508c5613,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test checks if a variable with the name `text` is present.,en
+018af9f8-6763-7737-9301-af73df812663,606f0d67-afd4-11ea-a2fb-cec41367f4e7,,en
+018af9f8-6763-7737-9301-af73df812663,606f0d67-afd4-11ea-a2fb-cec41367f4e7,,en
+018af9fb-06e8-739a-99b1-d1cec02151b2,606f0d67-afd4-11ea-a2fb-cec41367f4e7,,en
+018af9fb-06e8-739a-99b1-d1cec02151b2,606f0d67-afd4-11ea-a2fb-cec41367f4e7,,en
+018afa18-353e-77d7-a16a-2afafa9bf99e,4510ab42-afd6-11ea-a2fb-cec41367f4e7,,en
+018afa18-353e-77d7-a16a-2afafa9bf99e,4510ab42-afd6-11ea-a2fb-cec41367f4e7,,en
+018afa3e-c196-74b2-8f00-adcbcae5896e,4510ab42-afd6-11ea-a2fb-cec41367f4e7,This test checks whether your program asks the user for input once and then prints it to the command line.,en
+018afa3e-c196-74b2-8f00-adcbcae5896e,4510ab42-afd6-11ea-a2fb-cec41367f4e7,This test checks whether your program uses the `readline()` or `readline(..)` function,en
+018afa40-66b7-7c94-a691-85ed0f40c5cb,4510ab42-afd6-11ea-a2fb-cec41367f4e7,,en
+018afa40-66b7-7c94-a691-85ed0f40c5cb,4510ab42-afd6-11ea-a2fb-cec41367f4e7,,en
+018afa42-b9d0-7685-b757-9c885c655fc8,4510ab42-afd6-11ea-a2fb-cec41367f4e7,This test checks whether your program asks the user for input once and then prints it to the command line.,en
+018afa42-b9d0-7685-b757-9c885c655fc8,4510ab42-afd6-11ea-a2fb-cec41367f4e7,This test checks whether your program uses the `readline()` or `readline(..)` function,en
+018afa48-5258-7e51-a9e3-20ebc96873a2,4510ab42-afd6-11ea-a2fb-cec41367f4e7,This test checks whether your program asks the user for input once and then prints it to the command line.,en
+018afa48-5258-7e51-a9e3-20ebc96873a2,4510ab42-afd6-11ea-a2fb-cec41367f4e7,This test checks whether your program uses the `readline()` or `readline(..)` function,en
+018afa4a-0149-7fc1-87da-9df0b0fe3c7a,4510ab42-afd6-11ea-a2fb-cec41367f4e7,,en
+018afa4a-0149-7fc1-87da-9df0b0fe3c7a,4510ab42-afd6-11ea-a2fb-cec41367f4e7,,en
+018afa5a-d379-784e-bcda-508875ad22c9,6f6769bf-afd0-11ea-a2fb-cec41367f4e7,,en
+018afa5a-efad-7504-8bc7-f1b651bd56c1,3333dedb-afd7-11ea-a2fb-cec41367f4e7,,en
+018afa5a-efad-7504-8bc7-f1b651bd56c1,3333dedb-afd7-11ea-a2fb-cec41367f4e7,,en
+018afa5c-8a51-72fc-9b1e-7ca1ad0ecc29,3333dedb-afd7-11ea-a2fb-cec41367f4e7,,en
+018afa5c-8a51-72fc-9b1e-7ca1ad0ecc29,3333dedb-afd7-11ea-a2fb-cec41367f4e7,,en
+018afa5e-0f04-70c6-990e-d1ed821f45a7,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+018afa5e-0f04-70c6-990e-d1ed821f45a7,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+018afa5e-0f04-70c6-990e-d1ed821f45a7,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+018afa5e-0f04-70c6-990e-d1ed821f45a7,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+018afa5e-0f04-70c6-990e-d1ed821f45a7,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+018afa5f-d9e0-793a-a93d-338be87d7a02,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+018afa5f-d9e0-793a-a93d-338be87d7a02,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+018afa5f-d9e0-793a-a93d-338be87d7a02,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+018afa5f-d9e0-793a-a93d-338be87d7a02,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+018afa5f-d9e0-793a-a93d-338be87d7a02,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+018afa61-2296-7195-929f-ade95b780faf,36b0d151-afd9-11ea-a2fb-cec41367f4e7,Here we check if the program output contains the `var_dump` of both a string and an int,en
+018afa61-2296-7195-929f-ade95b780faf,36b0d151-afd9-11ea-a2fb-cec41367f4e7,Here we check if the program uses the `var_dump` method,en
+018afa66-2f44-7e72-bd4c-37fb679df384,36b0d151-afd9-11ea-a2fb-cec41367f4e7,,en
+018afa66-2f44-7e72-bd4c-37fb679df384,36b0d151-afd9-11ea-a2fb-cec41367f4e7,,en
+018afa67-2abe-723d-8758-e3b6712ea9d2,36b0d151-afd9-11ea-a2fb-cec41367f4e7,,en
+018afa67-2abe-723d-8758-e3b6712ea9d2,36b0d151-afd9-11ea-a2fb-cec41367f4e7,,en
+018afa68-c6c0-7320-ae69-374451ad8c8c,81f820cc-afd9-11ea-a2fb-cec41367f4e7,,en
+018afa68-c6c0-7320-ae69-374451ad8c8c,81f820cc-afd9-11ea-a2fb-cec41367f4e7,This test checks if your program prints `Too bad` when you input `15`.,en
+018afa68-c6c0-7320-ae69-374451ad8c8c,81f820cc-afd9-11ea-a2fb-cec41367f4e7,,en
+018afa69-b744-72c8-940e-b9d99215e38f,81f820cc-afd9-11ea-a2fb-cec41367f4e7,,en
+018afa69-b744-72c8-940e-b9d99215e38f,81f820cc-afd9-11ea-a2fb-cec41367f4e7,,en
+018afa69-b744-72c8-940e-b9d99215e38f,81f820cc-afd9-11ea-a2fb-cec41367f4e7,This test checks if your program _does not_ print `To bad` when you input `16.5`.,en
+018afa6a-ae52-7884-bfb4-9846394fd11c,81f820cc-afd9-11ea-a2fb-cec41367f4e7,,en
+018afa6a-ae52-7884-bfb4-9846394fd11c,81f820cc-afd9-11ea-a2fb-cec41367f4e7,,en
+018afa6a-ae52-7884-bfb4-9846394fd11c,81f820cc-afd9-11ea-a2fb-cec41367f4e7,,en
+018afa6c-9eff-7319-90aa-3064f22a59a5,c82728c7-afd9-11ea-a2fb-cec41367f4e7,This tests whether your program can take the `+` operator and two random numbers as input and add them together,en
+018afa6c-9eff-7319-90aa-3064f22a59a5,c82728c7-afd9-11ea-a2fb-cec41367f4e7,This tests whether your program can take the `-` operator and two random numbers as input and subtract them from each other,en
+018afa6f-7c7c-7a5c-a3d9-acfcef0bbf63,6f6769bf-afd0-11ea-a2fb-cec41367f4e7,,en
+018afa6f-89c6-737d-b73a-9eb48be80954,c82728c7-afd9-11ea-a2fb-cec41367f4e7,This tests whether your program can take the `+` operator and two random numbers as input and add them together,en
+018afa6f-89c6-737d-b73a-9eb48be80954,c82728c7-afd9-11ea-a2fb-cec41367f4e7,This tests whether your program can take the `-` operator and two random numbers as input and subtract them from each other,en
+018afa70-e5d1-7af8-8487-c20a313bab52,c82728c7-afd9-11ea-a2fb-cec41367f4e7,This tests whether your program can take the `+` operator and two random numbers as input and add them together,en
+018afa70-e5d1-7af8-8487-c20a313bab52,c82728c7-afd9-11ea-a2fb-cec41367f4e7,This tests whether your program can take the `-` operator and two random numbers as input and subtract them from each other,en
+018afa73-e19b-7a7d-b4e0-c3d1e1c20147,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test validates that the text assigned to the `text` variable is printed five times on a new line. You can create a new line with the PHP_EOL constant.,en
+018afa73-e19b-7a7d-b4e0-c3d1e1c20147,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test checks if a variable with the name `text` is present.,en
+018afa76-bf8f-70ea-909b-bbadf15502fb,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test validates that the text assigned to the `text` variable is printed five times on a new line. You can create a new line with the PHP_EOL constant.,en
+018afa76-bf8f-70ea-909b-bbadf15502fb,606f0d67-afd4-11ea-a2fb-cec41367f4e7,,en
+018afa80-5f1c-70a2-a27a-18ad3841a777,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test validates that the text assigned to the `text` variable is printed five times on a new line. You can create a new line with the PHP_EOL constant.,en
+018afa80-5f1c-70a2-a27a-18ad3841a777,606f0d67-afd4-11ea-a2fb-cec41367f4e7,,en
+018afa81-72ca-72a9-a96f-744b184f6add,81f820cc-afd9-11ea-a2fb-cec41367f4e7,,en
+018afa81-72ca-72a9-a96f-744b184f6add,81f820cc-afd9-11ea-a2fb-cec41367f4e7,,en
+018afa81-72ca-72a9-a96f-744b184f6add,81f820cc-afd9-11ea-a2fb-cec41367f4e7,,en
+018afe9f-2d77-74f5-9701-c560496be453,c82728c7-afd9-11ea-a2fb-cec41367f4e7,This tests whether your program can take the `+` operator and two random numbers as input and add them together,en
+018afe9f-2d77-74f5-9701-c560496be453,c82728c7-afd9-11ea-a2fb-cec41367f4e7,This tests whether your program can take the `-` operator and two random numbers as input and subtract them from each other,en
+018afea1-9952-7e39-9aa8-3ec04d1f202e,c82728c7-afd9-11ea-a2fb-cec41367f4e7,This tests whether your program can take the `+` operator and two random numbers as input and add them together,en
+018afea1-9952-7e39-9aa8-3ec04d1f202e,c82728c7-afd9-11ea-a2fb-cec41367f4e7,This tests whether your program can take the `-` operator and two random numbers as input and subtract them from each other,en
+018afea2-3b4e-79eb-8208-5cc232a32f12,c82728c7-afd9-11ea-a2fb-cec41367f4e7,This tests whether your program can take the `+` operator and two random numbers as input and add them together,en
+018afea2-3b4e-79eb-8208-5cc232a32f12,c82728c7-afd9-11ea-a2fb-cec41367f4e7,This tests whether your program can take the `-` operator and two random numbers as input and subtract them from each other,en
+018afeb2-261a-75b5-b8f3-461d6f0845c8,c82728c7-afd9-11ea-a2fb-cec41367f4e7,This tests whether your program can take the `+` operator and two random numbers as input and add them together,en
+018afeb2-261a-75b5-b8f3-461d6f0845c8,c82728c7-afd9-11ea-a2fb-cec41367f4e7,This tests whether your program can take the `-` operator and two random numbers as input and subtract them from each other,en
+018afeb2-f742-71aa-b36b-8bed43b60937,c82728c7-afd9-11ea-a2fb-cec41367f4e7,This tests whether your program can take the `+` operator and two random numbers as input and add them together,en
+018afeb2-f742-71aa-b36b-8bed43b60937,c82728c7-afd9-11ea-a2fb-cec41367f4e7,This tests whether your program can take the `-` operator and two random numbers as input and subtract them from each other,en
+018afeb5-6b9d-7cf5-9a38-4397031a974b,c82728c7-afd9-11ea-a2fb-cec41367f4e7,This tests whether your program can take the `+` operator and two random numbers as input and add them together,en
+018afeb5-6b9d-7cf5-9a38-4397031a974b,c82728c7-afd9-11ea-a2fb-cec41367f4e7,This tests whether your program can take the `-` operator and two random numbers as input and subtract them from each other,en
+018afec0-5f6d-702f-957a-61a7fa0aea7f,c82728c7-afd9-11ea-a2fb-cec41367f4e7,This tests whether your program can take the `+` operator and two random numbers as input and add them together,en
+018afec0-5f6d-702f-957a-61a7fa0aea7f,c82728c7-afd9-11ea-a2fb-cec41367f4e7,This tests whether your program can take the `-` operator and two random numbers as input and subtract them from each other,en
+018afec9-13f1-7081-baa7-3103bfcf8318,606f0d67-afd4-11ea-a2fb-cec41367f4e7,,en
+018afec9-13f1-7081-baa7-3103bfcf8318,606f0d67-afd4-11ea-a2fb-cec41367f4e7,,en
+018afee4-3d62-7168-b372-efab2d42185f,c82728c7-afd9-11ea-a2fb-cec41367f4e7,This tests whether your program can take the `+` operator and two random numbers as input and add them together,en
+018afee4-3d62-7168-b372-efab2d42185f,c82728c7-afd9-11ea-a2fb-cec41367f4e7,This tests whether your program can take the `-` operator and two random numbers as input and subtract them from each other,en
+018afeec-f426-7532-a61b-a97d0b05b543,4510ab42-afd6-11ea-a2fb-cec41367f4e7,,en
+018afeec-f426-7532-a61b-a97d0b05b543,4510ab42-afd6-11ea-a2fb-cec41367f4e7,,en
+018afef2-dcd3-7af6-ad93-e2aa48d0daa8,c82728c7-afd9-11ea-a2fb-cec41367f4e7,This tests whether your program can take the `+` operator and two random numbers as input and add them together,en
+018afef2-dcd3-7af6-ad93-e2aa48d0daa8,c82728c7-afd9-11ea-a2fb-cec41367f4e7,This tests whether your program can take the `-` operator and two random numbers as input and subtract them from each other,en
+018afef3-c40b-7347-a40f-1529b50077fa,c82728c7-afd9-11ea-a2fb-cec41367f4e7,This tests whether your program can take the `+` operator and two random numbers as input and add them together,en
+018afef3-c40b-7347-a40f-1529b50077fa,c82728c7-afd9-11ea-a2fb-cec41367f4e7,This tests whether your program can take the `-` operator and two random numbers as input and subtract them from each other,en
+018aff0e-8382-7afb-919a-f083d50dfe6d,3333dedb-afd7-11ea-a2fb-cec41367f4e7,,en
+018aff0e-8382-7afb-919a-f083d50dfe6d,3333dedb-afd7-11ea-a2fb-cec41367f4e7,,en
+018aff44-fa0f-73ca-9198-8b2282a83130,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test validates that the text assigned to the `text` variable is printed five times on a new line. You can create a new line with the PHP_EOL constant.,en
+018aff44-fa0f-73ca-9198-8b2282a83130,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test checks if a variable with the name `text` is present.,en
+018b0409-3aa4-7956-bb5f-151a0e687b4b,6f6769bf-afd0-11ea-a2fb-cec41367f4e7,,en
+018b0409-c83a-7350-8d1e-d4515a5fd214,6f6769bf-afd0-11ea-a2fb-cec41367f4e7,,en
+018b0413-6479-7d98-9455-0ece0ef7ea09,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test validates that the text assigned to the `text` variable is printed five times on a new line. You can create a new line with the PHP_EOL constant.,en
+018b0413-6479-7d98-9455-0ece0ef7ea09,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test checks if a variable with the name `text` is present.,en
+018b0415-b594-7cc5-a78f-7975a8fb96bb,606f0d67-afd4-11ea-a2fb-cec41367f4e7,,en
+018b0415-b594-7cc5-a78f-7975a8fb96bb,606f0d67-afd4-11ea-a2fb-cec41367f4e7,,en
+018b0425-e1d5-7cbc-9c7f-0e992f289f98,4510ab42-afd6-11ea-a2fb-cec41367f4e7,,en
+018b0425-e1d5-7cbc-9c7f-0e992f289f98,4510ab42-afd6-11ea-a2fb-cec41367f4e7,,en
+018b0428-f4ae-7fe0-b189-7704f071c9bd,3333dedb-afd7-11ea-a2fb-cec41367f4e7,,en
+018b0428-f4ae-7fe0-b189-7704f071c9bd,3333dedb-afd7-11ea-a2fb-cec41367f4e7,This test checks if your program uses the string concatenation operator `.` to concatenate the two strings with a space in between.,en
+018b042d-033c-7cd6-834e-9c28c7558ba0,3333dedb-afd7-11ea-a2fb-cec41367f4e7,,en
+018b042d-033c-7cd6-834e-9c28c7558ba0,3333dedb-afd7-11ea-a2fb-cec41367f4e7,This test checks if your program uses the string concatenation operator `.` to concatenate the two strings with a space in between.,en
+018b042d-5d91-735e-b3fe-af16ca58a668,3333dedb-afd7-11ea-a2fb-cec41367f4e7,,en
+018b042d-5d91-735e-b3fe-af16ca58a668,3333dedb-afd7-11ea-a2fb-cec41367f4e7,This test checks if your program uses the string concatenation operator `.` to concatenate the two strings with a space in between.,en
+018b0452-b98d-7e0a-adcf-d130a5d1d978,3333dedb-afd7-11ea-a2fb-cec41367f4e7,,en
+018b0452-b98d-7e0a-adcf-d130a5d1d978,3333dedb-afd7-11ea-a2fb-cec41367f4e7,,en
+018b045d-5ee1-72d4-a023-8419e3188a97,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+018b045d-5ee1-72d4-a023-8419e3188a97,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+018b045d-5ee1-72d4-a023-8419e3188a97,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+018b045d-5ee1-72d4-a023-8419e3188a97,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+018b045d-5ee1-72d4-a023-8419e3188a97,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+018b0465-e14c-78bf-86aa-1374206fed05,36b0d151-afd9-11ea-a2fb-cec41367f4e7,,en
+018b0465-e14c-78bf-86aa-1374206fed05,36b0d151-afd9-11ea-a2fb-cec41367f4e7,,en
+018b05aa-1d16-7264-8752-e01614f12bb3,81f820cc-afd9-11ea-a2fb-cec41367f4e7,,en
+018b05aa-1d16-7264-8752-e01614f12bb3,81f820cc-afd9-11ea-a2fb-cec41367f4e7,,en
+018b05aa-1d16-7264-8752-e01614f12bb3,81f820cc-afd9-11ea-a2fb-cec41367f4e7,This test checks if your program _does not_ print `To bad` when you input `16.5`.,en
+018b05ad-ba10-799a-847e-4e6c42cca6bf,81f820cc-afd9-11ea-a2fb-cec41367f4e7,,en
+018b05ad-ba10-799a-847e-4e6c42cca6bf,81f820cc-afd9-11ea-a2fb-cec41367f4e7,This test checks if your program prints `Too bad` when you input `15`.,en
+018b05ad-ba10-799a-847e-4e6c42cca6bf,81f820cc-afd9-11ea-a2fb-cec41367f4e7,,en
+018b05b0-7d3b-78f1-89a5-d43dd1976701,81f820cc-afd9-11ea-a2fb-cec41367f4e7,,en
+018b05b0-7d3b-78f1-89a5-d43dd1976701,81f820cc-afd9-11ea-a2fb-cec41367f4e7,This test checks if your program prints `Too bad` when you input `15`.,en
+018b05b0-7d3b-78f1-89a5-d43dd1976701,81f820cc-afd9-11ea-a2fb-cec41367f4e7,,en
+018b05b3-84b1-7804-8074-49ce4382049d,81f820cc-afd9-11ea-a2fb-cec41367f4e7,,en
+018b05b3-84b1-7804-8074-49ce4382049d,81f820cc-afd9-11ea-a2fb-cec41367f4e7,,en
+018b05b3-84b1-7804-8074-49ce4382049d,81f820cc-afd9-11ea-a2fb-cec41367f4e7,This test checks if your program _does not_ print `To bad` when you input `16.5`.,en
+018b05b6-ea69-7add-8bb0-d2374a34dbaa,81f820cc-afd9-11ea-a2fb-cec41367f4e7,,en
+018b05b6-ea69-7add-8bb0-d2374a34dbaa,81f820cc-afd9-11ea-a2fb-cec41367f4e7,,en
+018b05b6-ea69-7add-8bb0-d2374a34dbaa,81f820cc-afd9-11ea-a2fb-cec41367f4e7,,en
+018b05f3-78b4-7eae-b9fd-ece6a34743e6,c82728c7-afd9-11ea-a2fb-cec41367f4e7,,en
+018b05f3-78b4-7eae-b9fd-ece6a34743e6,c82728c7-afd9-11ea-a2fb-cec41367f4e7,,en
+018b0977-8a3e-79b4-9f37-3bc14a046f3f,af69985b-b063-11ea-a2fb-cec41367f4e7,,en
+018b0977-8a3e-79b4-9f37-3bc14a046f3f,af69985b-b063-11ea-a2fb-cec41367f4e7,"Checks that if the input is an odd number, the program prints `een oneven getal` and not `een even getal`. This check is not case sensitive.",en
+018b0978-e30a-760f-babb-3c0684908cba,af69985b-b063-11ea-a2fb-cec41367f4e7,,en
+018b0978-e30a-760f-babb-3c0684908cba,af69985b-b063-11ea-a2fb-cec41367f4e7,,en
+018b09a5-6631-719e-9ec1-24e45417d6c7,f2f7fddb-b063-11ea-a2fb-cec41367f4e7,,en
+018b09a5-6631-719e-9ec1-24e45417d6c7,f2f7fddb-b063-11ea-a2fb-cec41367f4e7,,en
+018b09a9-bfee-7e52-be9c-c74e4fa9cb67,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+018b09a9-bfee-7e52-be9c-c74e4fa9cb67,25078a26-b064-11ea-a2fb-cec41367f4e7,"Checks that if the input is a valid operator and then an invalid number is entered, the text `not a number` or `not a valid number` is printed to the command line. Note: this check is case sensitive.",en
+018b09a9-bfee-7e52-be9c-c74e4fa9cb67,25078a26-b064-11ea-a2fb-cec41367f4e7,"Checks that if the input is an invalid operator and then two numbers are entered, the text `invalid operation` is printed to the command line",en
+018b09a9-bfee-7e52-be9c-c74e4fa9cb67,25078a26-b064-11ea-a2fb-cec41367f4e7,"Checks that if the input is a valid operator and then a valid number followed by an invalid number is entered, the text `not a number` or `not a valid number` is printed to the command line. Note: this check is case sensitive.",en
+018b09a9-bfee-7e52-be9c-c74e4fa9cb67,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+018b09a9-bfee-7e52-be9c-c74e4fa9cb67,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+018b09ae-a8ac-71c9-af09-ec446c83728e,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+018b09ae-a8ac-71c9-af09-ec446c83728e,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+018b09ae-a8ac-71c9-af09-ec446c83728e,25078a26-b064-11ea-a2fb-cec41367f4e7,"Checks that if the input is an invalid operator and then two numbers are entered, the text `invalid operation` is printed to the command line",en
+018b09ae-a8ac-71c9-af09-ec446c83728e,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+018b09ae-a8ac-71c9-af09-ec446c83728e,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+018b09ae-a8ac-71c9-af09-ec446c83728e,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+018b09af-8b6f-7b88-938b-a298478b8e88,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+018b09af-8b6f-7b88-938b-a298478b8e88,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+018b09af-8b6f-7b88-938b-a298478b8e88,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+018b09af-8b6f-7b88-938b-a298478b8e88,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+018b09af-8b6f-7b88-938b-a298478b8e88,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+018b09af-8b6f-7b88-938b-a298478b8e88,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+018b0e5c-39c7-7edf-9703-09b57c53d49f,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+018b0e5c-39c7-7edf-9703-09b57c53d49f,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+018b0e5c-39c7-7edf-9703-09b57c53d49f,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+018b0e5c-39c7-7edf-9703-09b57c53d49f,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+018b0e5c-39c7-7edf-9703-09b57c53d49f,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+018b0e5c-39c7-7edf-9703-09b57c53d49f,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+018b0e5d-6350-7f31-a25c-36f817734809,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+018b0e5d-6350-7f31-a25c-36f817734809,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+018b0e5d-6350-7f31-a25c-36f817734809,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+018b0e5d-6350-7f31-a25c-36f817734809,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+018b0e5d-6350-7f31-a25c-36f817734809,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+018b0e5d-6350-7f31-a25c-36f817734809,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+018b0e65-8a53-7b8a-8272-4f5a08376cc6,d0671fb7-b064-11ea-a2fb-cec41367f4e7,,en
+018b0e65-8a53-7b8a-8272-4f5a08376cc6,d0671fb7-b064-11ea-a2fb-cec41367f4e7,,en
+018b0e66-2624-7201-b5a6-cc12557ae269,d0671fb7-b064-11ea-a2fb-cec41367f4e7,,en
+018b0e66-2624-7201-b5a6-cc12557ae269,d0671fb7-b064-11ea-a2fb-cec41367f4e7,,en
+018b0e6b-4c32-7f4b-b44b-f64eab965171,c0e71e14-b06e-11ea-a2fb-cec41367f4e7,,en
+018b0e6b-4c32-7f4b-b44b-f64eab965171,c0e71e14-b06e-11ea-a2fb-cec41367f4e7,,en
+018b0e6b-4c32-7f4b-b44b-f64eab965171,c0e71e14-b06e-11ea-a2fb-cec41367f4e7,,en
+018b0e6b-4c32-7f4b-b44b-f64eab965171,c0e71e14-b06e-11ea-a2fb-cec41367f4e7,,en
+018b0e6e-97ff-71a4-adc7-6f7679254d61,83b2bbda-b06f-11ea-a2fb-cec41367f4e7,,en
+018b0e6e-97ff-71a4-adc7-6f7679254d61,83b2bbda-b06f-11ea-a2fb-cec41367f4e7,,en
+018b0e6e-97ff-71a4-adc7-6f7679254d61,83b2bbda-b06f-11ea-a2fb-cec41367f4e7,,en
+018b0e73-2af9-791a-8e3c-24109a07087b,be700679-b06f-11ea-a2fb-cec41367f4e7,,en
+018b0e76-fc49-7f8d-ad3e-74b0ee7ae46c,038102cd-b070-11ea-a2fb-cec41367f4e7,,en
+018b0e76-fc49-7f8d-ad3e-74b0ee7ae46c,038102cd-b070-11ea-a2fb-cec41367f4e7,,en
+018b0e76-fc49-7f8d-ad3e-74b0ee7ae46c,038102cd-b070-11ea-a2fb-cec41367f4e7,,en
+018b0e7a-c1c4-7b59-98fc-9f5afa94007f,9018e1ce-b071-11ea-a2fb-cec41367f4e7,,en
+018b0e7a-c1c4-7b59-98fc-9f5afa94007f,9018e1ce-b071-11ea-a2fb-cec41367f4e7,,en
+018b0e7a-c1c4-7b59-98fc-9f5afa94007f,9018e1ce-b071-11ea-a2fb-cec41367f4e7,,en
+018b0e9e-f630-741a-9b3f-dd7d2f8f599b,fbdd4ad8-c27c-4b06-9ae9-ba3781a39cfa,,en
+018b13c2-731a-7006-91a7-800a83d9f6a1,c82728c7-afd9-11ea-a2fb-cec41367f4e7,,en
+018b13c2-731a-7006-91a7-800a83d9f6a1,c82728c7-afd9-11ea-a2fb-cec41367f4e7,,en
+018b13c3-d19d-77f0-9ca1-034fb747d198,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+018b13c3-d19d-77f0-9ca1-034fb747d198,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+018b13c3-d19d-77f0-9ca1-034fb747d198,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+018b13c3-d19d-77f0-9ca1-034fb747d198,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+018b13c3-d19d-77f0-9ca1-034fb747d198,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+018b13c4-05d2-71b2-8eb7-2d11fea511f2,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test validates that the text assigned to the `text` variable is printed five times on a new line. You can create a new line with the PHP_EOL constant.,en
+018b13c4-05d2-71b2-8eb7-2d11fea511f2,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test checks if a variable with the name `text` is present.,en
+018b13c5-1e85-7aff-967a-4ff20706eaee,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test validates that the text assigned to the `text` variable is printed five times on a new line. You can create a new line with the PHP_EOL constant.,en
+018b13c5-1e85-7aff-967a-4ff20706eaee,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test checks if a variable with the name `text` is present.,en
+018b13c5-ca1e-7975-a00c-2ca925400fa3,c82728c7-afd9-11ea-a2fb-cec41367f4e7,,en
+018b13c5-ca1e-7975-a00c-2ca925400fa3,c82728c7-afd9-11ea-a2fb-cec41367f4e7,,en
+018b13c8-871e-75e3-a992-cee5f86ac5c4,c82728c7-afd9-11ea-a2fb-cec41367f4e7,,en
+018b13c8-871e-75e3-a992-cee5f86ac5c4,c82728c7-afd9-11ea-a2fb-cec41367f4e7,,en
+018b13c8-eb40-7f3c-b671-accf3e3ced6a,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test validates that the text assigned to the `text` variable is printed five times on a new line. You can create a new line with the PHP_EOL constant.,en
+018b13c8-eb40-7f3c-b671-accf3e3ced6a,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test checks if a variable with the name `text` is present.,en
+018b13ca-f53c-74f6-aa41-992ddfb8b09f,c82728c7-afd9-11ea-a2fb-cec41367f4e7,,en
+018b13ca-f53c-74f6-aa41-992ddfb8b09f,c82728c7-afd9-11ea-a2fb-cec41367f4e7,,en
+018b13cd-e0a2-7d89-89ec-6685b0c7aacd,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test validates that the text assigned to the `text` variable is printed five times on a new line. You can create a new line with the PHP_EOL constant.,en
+018b13cd-e0a2-7d89-89ec-6685b0c7aacd,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test checks if a variable with the name `text` is present.,en
+018b13cf-0774-7d7f-a0ac-3dacdd4722b3,c82728c7-afd9-11ea-a2fb-cec41367f4e7,,en
+018b13cf-0774-7d7f-a0ac-3dacdd4722b3,c82728c7-afd9-11ea-a2fb-cec41367f4e7,,en
+018b13d1-eee7-7703-82a1-2e7d2d43f32c,c82728c7-afd9-11ea-a2fb-cec41367f4e7,,en
+018b13d1-eee7-7703-82a1-2e7d2d43f32c,c82728c7-afd9-11ea-a2fb-cec41367f4e7,,en
+018b13d2-b026-7593-92ce-3e7308cfcccd,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test validates that the text assigned to the `text` variable is printed five times on a new line. You can create a new line with the PHP_EOL constant.,en
+018b13d2-b026-7593-92ce-3e7308cfcccd,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test checks if a variable with the name `text` is present.,en
+018b13d4-be6b-7ad0-8360-e8bb1c57d09e,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test validates that the text assigned to the `text` variable is printed five times on a new line. You can create a new line with the PHP_EOL constant.,en
+018b13d4-be6b-7ad0-8360-e8bb1c57d09e,606f0d67-afd4-11ea-a2fb-cec41367f4e7,,en
+018b13d4-fbd4-7fbc-b635-397070f31534,c82728c7-afd9-11ea-a2fb-cec41367f4e7,,en
+018b13d4-fbd4-7fbc-b635-397070f31534,c82728c7-afd9-11ea-a2fb-cec41367f4e7,,en
+018b13d7-ed76-75ac-a610-9e0c1293b846,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test validates that the text assigned to the `text` variable is printed five times on a new line. You can create a new line with the PHP_EOL constant.,en
+018b13d7-ed76-75ac-a610-9e0c1293b846,606f0d67-afd4-11ea-a2fb-cec41367f4e7,,en
+018b13dd-cb58-70d2-ac5c-e8861de14eca,606f0d67-afd4-11ea-a2fb-cec41367f4e7,,en
+018b13dd-cb58-70d2-ac5c-e8861de14eca,606f0d67-afd4-11ea-a2fb-cec41367f4e7,,en
+018b13ea-5a69-7c7c-8fa4-6023b1f708d6,c82728c7-afd9-11ea-a2fb-cec41367f4e7,,en
+018b13ea-5a69-7c7c-8fa4-6023b1f708d6,c82728c7-afd9-11ea-a2fb-cec41367f4e7,,en
+018b13eb-aec8-73ae-a910-122c0aaae070,c82728c7-afd9-11ea-a2fb-cec41367f4e7,,en
+018b13eb-aec8-73ae-a910-122c0aaae070,c82728c7-afd9-11ea-a2fb-cec41367f4e7,,en
+018b13ed-1a15-7913-8a96-9d77deafcdcb,c82728c7-afd9-11ea-a2fb-cec41367f4e7,,en
+018b13ed-1a15-7913-8a96-9d77deafcdcb,c82728c7-afd9-11ea-a2fb-cec41367f4e7,,en
+018b13f2-51ed-7585-abfa-2e8739b44b74,36b0d151-afd9-11ea-a2fb-cec41367f4e7,,en
+018b13f2-51ed-7585-abfa-2e8739b44b74,36b0d151-afd9-11ea-a2fb-cec41367f4e7,,en
+018b13f3-1040-72d7-9a51-826d68152c25,36b0d151-afd9-11ea-a2fb-cec41367f4e7,,en
+018b13f3-1040-72d7-9a51-826d68152c25,36b0d151-afd9-11ea-a2fb-cec41367f4e7,,en
+018b13f3-e76c-7ba7-9001-c8553f0c717a,c82728c7-afd9-11ea-a2fb-cec41367f4e7,,en
+018b13f3-e76c-7ba7-9001-c8553f0c717a,c82728c7-afd9-11ea-a2fb-cec41367f4e7,,en
+018b13f5-7831-797c-b243-75a384986d39,c82728c7-afd9-11ea-a2fb-cec41367f4e7,,en
+018b13f5-7831-797c-b243-75a384986d39,c82728c7-afd9-11ea-a2fb-cec41367f4e7,,en
+018b13f7-1fc4-7db9-86a8-96e4dfabe91a,c82728c7-afd9-11ea-a2fb-cec41367f4e7,,en
+018b13f7-1fc4-7db9-86a8-96e4dfabe91a,c82728c7-afd9-11ea-a2fb-cec41367f4e7,,en
+018b13fd-4df2-7761-94b4-bd22977d2f65,c82728c7-afd9-11ea-a2fb-cec41367f4e7,,en
+018b13fd-4df2-7761-94b4-bd22977d2f65,c82728c7-afd9-11ea-a2fb-cec41367f4e7,,en
+02f4738e-8975-47b3-9330-e1c56a01857a,9018e1ce-b071-11ea-a2fb-cec41367f4e7,"Here we test if all names from the provided file are printed below each other. After each name, a new line is expected that is placed with the `PHP_EOL` constant.",en
+02f4738e-8975-47b3-9330-e1c56a01857a,9018e1ce-b071-11ea-a2fb-cec41367f4e7,,en
+02f4738e-8975-47b3-9330-e1c56a01857a,9018e1ce-b071-11ea-a2fb-cec41367f4e7,,en
+043af6dc-0a19-48eb-ba80-78b598f8ab75,606f0d67-afd4-11ea-a2fb-cec41367f4e7,,en
+043af6dc-0a19-48eb-ba80-78b598f8ab75,606f0d67-afd4-11ea-a2fb-cec41367f4e7,,en
+04b147bb-7b0e-4ee5-b2f0-a6763abac59c,606f0d67-afd4-11ea-a2fb-cec41367f4e7,,en
+04b147bb-7b0e-4ee5-b2f0-a6763abac59c,606f0d67-afd4-11ea-a2fb-cec41367f4e7,,en
+0554dad7-2fd7-47fb-b0ec-a0ade6ba1fba,f2f7fddb-b063-11ea-a2fb-cec41367f4e7,This test validates whether the `var_dump` method is used.,en
+0554dad7-2fd7-47fb-b0ec-a0ade6ba1fba,f2f7fddb-b063-11ea-a2fb-cec41367f4e7,,en
+05a785db-9ee9-4959-bdd0-bcfb35841d25,6f6769bf-afd0-11ea-a2fb-cec41367f4e7,,en
+0809494a-b811-4d7d-b56b-a3decb9dbde3,6f6769bf-afd0-11ea-a2fb-cec41367f4e7,,en
+09e37bba-58f9-4e2d-a0f5-81a7ec7661d0,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+09e37bba-58f9-4e2d-a0f5-81a7ec7661d0,25078a26-b064-11ea-a2fb-cec41367f4e7,"Checks that if the input is a valid operator and then an invalid number is entered, the text `not a number` or `not a valid number` is printed to the command line. Note: this check is case sensitive.",en
+09e37bba-58f9-4e2d-a0f5-81a7ec7661d0,25078a26-b064-11ea-a2fb-cec41367f4e7,"Checks that if the input is an invalid operator and then two numbers are entered, the text `invalid operation` is printed to the command line",en
+09e37bba-58f9-4e2d-a0f5-81a7ec7661d0,25078a26-b064-11ea-a2fb-cec41367f4e7,"Checks that if the input is a valid operator and then a valid number followed by an invalid number is entered, the text `not a number` or `not a valid number` is printed to the command line. Note: this check is case sensitive.",en
+09e37bba-58f9-4e2d-a0f5-81a7ec7661d0,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+09e37bba-58f9-4e2d-a0f5-81a7ec7661d0,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+0d02cb84-7c3d-4bcc-adf4-4576ac23c7d0,6f6769bf-afd0-11ea-a2fb-cec41367f4e7,,en
+0d802f2a-a9c3-4db3-84c0-2fd9837bdf5e,d0671fb7-b064-11ea-a2fb-cec41367f4e7,,en
+0d802f2a-a9c3-4db3-84c0-2fd9837bdf5e,d0671fb7-b064-11ea-a2fb-cec41367f4e7,,en
+0fa0cb7e-64a3-447f-8643-618b67e75913,9018e1ce-b071-11ea-a2fb-cec41367f4e7,"Here we test if all names from the provided file are printed below each other. After each name, a new line is expected that is placed with the `PHP_EOL` constant.",en
+0fa0cb7e-64a3-447f-8643-618b67e75913,9018e1ce-b071-11ea-a2fb-cec41367f4e7,,en
+0fa0cb7e-64a3-447f-8643-618b67e75913,9018e1ce-b071-11ea-a2fb-cec41367f4e7,,en
+1105ffbf-c5ee-4b0c-9de1-e4a0f03d92f1,606f0d67-afd4-11ea-a2fb-cec41367f4e7,,en
+1105ffbf-c5ee-4b0c-9de1-e4a0f03d92f1,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test checks if a variable with the name `text` is present.,en
+11342b84-8c32-4eb7-b407-28a6b6090821,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,Checks: `100 times 2 = 200`,en
+11342b84-8c32-4eb7-b407-28a6b6090821,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,Checks: `-10 times 2 = -20`,en
+11342b84-8c32-4eb7-b407-28a6b6090821,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,Checks: `1 times 1 = 1`,en
+11342b84-8c32-4eb7-b407-28a6b6090821,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,Checks that multiplying two random numbers together also works,en
+11342b84-8c32-4eb7-b407-28a6b6090821,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,Checks: `10 times 10 = 100`,en
+113718c6-ac17-43e5-bb3f-249e7ac4b796,6f6769bf-afd0-11ea-a2fb-cec41367f4e7,,en
+12e61227-2596-4440-b52c-16703addd217,c0e71e14-b06e-11ea-a2fb-cec41367f4e7,,en
+12e61227-2596-4440-b52c-16703addd217,c0e71e14-b06e-11ea-a2fb-cec41367f4e7,,en
+12e61227-2596-4440-b52c-16703addd217,c0e71e14-b06e-11ea-a2fb-cec41367f4e7,"This tests whether the numbers 1 through 10 are printed on the command line. After each number, a new line is expected which is placed with the `PHP_EOL` constant.",en
+12e61227-2596-4440-b52c-16703addd217,c0e71e14-b06e-11ea-a2fb-cec41367f4e7,,en
+13bd8d33-a7e4-46bc-badc-5512961328a0,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+13bd8d33-a7e4-46bc-badc-5512961328a0,25078a26-b064-11ea-a2fb-cec41367f4e7,"Checks that if the input is a valid operator and then an invalid number is entered, the text `not a number` or `not a valid number` is printed to the command line. Note: this check is case sensitive.",en
+13bd8d33-a7e4-46bc-badc-5512961328a0,25078a26-b064-11ea-a2fb-cec41367f4e7,"Checks that if the input is an invalid operator and then two numbers are entered, the text `invalid operation` is printed to the command line",en
+13bd8d33-a7e4-46bc-badc-5512961328a0,25078a26-b064-11ea-a2fb-cec41367f4e7,"Checks that if the input is a valid operator and then a valid number followed by an invalid number is entered, the text `not a number` or `not a valid number` is printed to the command line. Note: this check is case sensitive.",en
+13bd8d33-a7e4-46bc-badc-5512961328a0,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+13bd8d33-a7e4-46bc-badc-5512961328a0,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+13cb919a-8612-4ca3-b834-a2581569ae59,36b0d151-afd9-11ea-a2fb-cec41367f4e7,"Failure to execute a test is usually caused by a mistake in your code. Some examples:
+    - an infinite loop
+    - an unexpected crash
+    - a syntax error
+    
+Diligently test your code again on your own computer and validate the output with the expected output.
+
+Keep having problems? Contact your coach.",en
+159126ee-278d-4533-a155-4e6ab1a7d62a,f2f7fddb-b063-11ea-a2fb-cec41367f4e7,,en
+159126ee-278d-4533-a155-4e6ab1a7d62a,f2f7fddb-b063-11ea-a2fb-cec41367f4e7,,en
+15d2d98d-07da-4b18-8e74-1a19b0a80dc5,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+15d2d98d-07da-4b18-8e74-1a19b0a80dc5,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+15d2d98d-07da-4b18-8e74-1a19b0a80dc5,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+15d2d98d-07da-4b18-8e74-1a19b0a80dc5,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+15d2d98d-07da-4b18-8e74-1a19b0a80dc5,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+17b4a511-4ae0-4f2f-b82b-342771efb42b,af69985b-b063-11ea-a2fb-cec41367f4e7,"Checks that if the input is an even number, the program prints `een even getal` and not `een oneven getal`. This check is not case sensitive.",en
+17b4a511-4ae0-4f2f-b82b-342771efb42b,af69985b-b063-11ea-a2fb-cec41367f4e7,"Checks that if the input is an odd number, the program prints `een oneven getal` and not `een even getal`. This check is not case sensitive.",en
+1852fdba-15ab-4e1d-857e-65cb6baf20f3,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+1852fdba-15ab-4e1d-857e-65cb6baf20f3,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+1852fdba-15ab-4e1d-857e-65cb6baf20f3,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+1852fdba-15ab-4e1d-857e-65cb6baf20f3,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+1852fdba-15ab-4e1d-857e-65cb6baf20f3,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+1852fdba-15ab-4e1d-857e-65cb6baf20f3,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+18cf9353-3e2c-4dbf-9712-c6851a14d6ee,af69985b-b063-11ea-a2fb-cec41367f4e7,,en
+18cf9353-3e2c-4dbf-9712-c6851a14d6ee,af69985b-b063-11ea-a2fb-cec41367f4e7,,en
+1b099616-6eaf-4d06-b12e-8c0b27c022ab,6f6769bf-afd0-11ea-a2fb-cec41367f4e7,,en
+1c7e63d3-75ce-4c79-99a9-e976bc41f303,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test validates that the text assigned to the `text` variable is printed five times on a new line. You can create a new line with the PHP_EOL constant.,en
+1c7e63d3-75ce-4c79-99a9-e976bc41f303,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test checks if a variable with the name `text` is present.,en
+1d4d2ace-c8f8-4221-a15f-2dbb9a5928e3,be700679-b06f-11ea-a2fb-cec41367f4e7,,en
+1e763467-e2d3-467b-86b3-f32c973eec15,af69985b-b063-11ea-a2fb-cec41367f4e7,"Checks that if the input is an even number, the program prints `een even getal` and not `een oneven getal`. This check is not case sensitive.",en
+1e763467-e2d3-467b-86b3-f32c973eec15,af69985b-b063-11ea-a2fb-cec41367f4e7,"Checks that if the input is an odd number, the program prints `een oneven getal` and not `een even getal`. This check is not case sensitive.",en
+1fd4a834-0096-40e2-9f39-1d47a6ee515e,9018e1ce-b071-11ea-a2fb-cec41367f4e7,,en
+1fd4a834-0096-40e2-9f39-1d47a6ee515e,9018e1ce-b071-11ea-a2fb-cec41367f4e7,,en
+1fd4a834-0096-40e2-9f39-1d47a6ee515e,9018e1ce-b071-11ea-a2fb-cec41367f4e7,,en
+21777f67-8bf8-4f26-a341-869cc30b3383,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+21777f67-8bf8-4f26-a341-869cc30b3383,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+21777f67-8bf8-4f26-a341-869cc30b3383,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+21777f67-8bf8-4f26-a341-869cc30b3383,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+21777f67-8bf8-4f26-a341-869cc30b3383,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+219ebf6a-27b3-4d0d-bd44-161622dfe311,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test validates that the text assigned to the `text` variable is printed five times on a new line. You can create a new line with the PHP_EOL constant.,en
+219ebf6a-27b3-4d0d-bd44-161622dfe311,606f0d67-afd4-11ea-a2fb-cec41367f4e7,,en
+22a9c05b-3611-45e1-bec4-8f2fad4abbc2,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+22a9c05b-3611-45e1-bec4-8f2fad4abbc2,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+22a9c05b-3611-45e1-bec4-8f2fad4abbc2,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+22a9c05b-3611-45e1-bec4-8f2fad4abbc2,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+22a9c05b-3611-45e1-bec4-8f2fad4abbc2,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+22a9c05b-3611-45e1-bec4-8f2fad4abbc2,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+22d7106f-b602-4e3d-b532-813ddb2c9fc2,be700679-b06f-11ea-a2fb-cec41367f4e7,,en
+22e0cf7a-f510-4c9a-a069-cef19f735b36,6f6769bf-afd0-11ea-a2fb-cec41367f4e7,,en
+2313c07c-9fe1-4ea8-a441-177524263406,9018e1ce-b071-11ea-a2fb-cec41367f4e7,"Here we test if all names from the provided file are printed below each other. After each name, a new line is expected that is placed with the `PHP_EOL` constant.",en
+2313c07c-9fe1-4ea8-a441-177524263406,9018e1ce-b071-11ea-a2fb-cec41367f4e7,,en
+2313c07c-9fe1-4ea8-a441-177524263406,9018e1ce-b071-11ea-a2fb-cec41367f4e7,,en
+242d6adf-debe-4c6c-966b-7f0f3505a79d,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test validates that the text assigned to the `text` variable is printed five times on a new line. You can create a new line with the PHP_EOL constant.,en
+242d6adf-debe-4c6c-966b-7f0f3505a79d,606f0d67-afd4-11ea-a2fb-cec41367f4e7,,en
+273d8911-004a-4eb1-84cb-6304a419f120,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test validates that the text assigned to the `text` variable is printed five times on a new line. You can create a new line with the PHP_EOL constant.,en
+273d8911-004a-4eb1-84cb-6304a419f120,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test checks if a variable with the name `text` is present.,en
+29a9efbf-21e3-4e0b-897d-7dac8e601462,6f6769bf-afd0-11ea-a2fb-cec41367f4e7,,en
+2a292da1-38eb-4d7c-81f8-f776f5cde77e,c82728c7-afd9-11ea-a2fb-cec41367f4e7,,en
+2a292da1-38eb-4d7c-81f8-f776f5cde77e,c82728c7-afd9-11ea-a2fb-cec41367f4e7,,en
+2b576ac1-ba7e-459e-9c09-6297f8de9bb4,af69985b-b063-11ea-a2fb-cec41367f4e7,"Checks that if the input is an even number, the program prints `een even getal` and not `een oneven getal`. This check is not case sensitive.",en
+2b576ac1-ba7e-459e-9c09-6297f8de9bb4,af69985b-b063-11ea-a2fb-cec41367f4e7,"Checks that if the input is an odd number, the program prints `een oneven getal` and not `een even getal`. This check is not case sensitive.",en
+2c23bcbd-4672-4859-b098-4e2c95f5adf2,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+2c23bcbd-4672-4859-b098-4e2c95f5adf2,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+2c23bcbd-4672-4859-b098-4e2c95f5adf2,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+2c23bcbd-4672-4859-b098-4e2c95f5adf2,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+2c23bcbd-4672-4859-b098-4e2c95f5adf2,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+2c23bcbd-4672-4859-b098-4e2c95f5adf2,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+2d2cfa05-fd05-4ca3-8d1f-3cc1823e383a,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test validates that the text assigned to the `text` variable is printed five times on a new line. You can create a new line with the PHP_EOL constant.,en
+2d2cfa05-fd05-4ca3-8d1f-3cc1823e383a,606f0d67-afd4-11ea-a2fb-cec41367f4e7,,en
+2d673af7-be59-45ef-bffc-1117a17593aa,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test validates that the text assigned to the `text` variable is printed five times on a new line. You can create a new line with the PHP_EOL constant.,en
+2d673af7-be59-45ef-bffc-1117a17593aa,606f0d67-afd4-11ea-a2fb-cec41367f4e7,,en
+2eaada6a-97fb-4476-84ee-19cd6b57d7e1,be700679-b06f-11ea-a2fb-cec41367f4e7,,en
+2ff4b438-fd71-494e-991e-c0638191a97b,606f0d67-afd4-11ea-a2fb-cec41367f4e7,,en
+2ff4b438-fd71-494e-991e-c0638191a97b,606f0d67-afd4-11ea-a2fb-cec41367f4e7,,en
+3181e370-b562-44cf-bbec-25f8244d3a72,c82728c7-afd9-11ea-a2fb-cec41367f4e7,,en
+3181e370-b562-44cf-bbec-25f8244d3a72,c82728c7-afd9-11ea-a2fb-cec41367f4e7,,en
+32962e8e-d729-4022-bc73-22751822d0f2,af69985b-b063-11ea-a2fb-cec41367f4e7,"Checks that if the input is an even number, the program prints `een even getal` and not `een oneven getal`. This check is not case sensitive.",en
+32962e8e-d729-4022-bc73-22751822d0f2,af69985b-b063-11ea-a2fb-cec41367f4e7,"Checks that if the input is an odd number, the program prints `een oneven getal` and not `een even getal`. This check is not case sensitive.",en
+333f42cb-6008-4e5c-b20e-a4ef7654abaf,af69985b-b063-11ea-a2fb-cec41367f4e7,"Checks that if the input is an even number, the program prints `een even getal` and not `een oneven getal`. This check is not case sensitive.",en
+333f42cb-6008-4e5c-b20e-a4ef7654abaf,af69985b-b063-11ea-a2fb-cec41367f4e7,"Checks that if the input is an odd number, the program prints `een oneven getal` and not `een even getal`. This check is not case sensitive.",en
+33989f83-f464-474f-a627-c99b3054614a,606f0d67-afd4-11ea-a2fb-cec41367f4e7,,en
+33989f83-f464-474f-a627-c99b3054614a,606f0d67-afd4-11ea-a2fb-cec41367f4e7,,en
+33bbad4e-40dd-41e3-a8c3-9945e2653993,af69985b-b063-11ea-a2fb-cec41367f4e7,"Checks that if the input is an even number, the program prints `een even getal` and not `een oneven getal`. This check is not case sensitive.",en
+33bbad4e-40dd-41e3-a8c3-9945e2653993,af69985b-b063-11ea-a2fb-cec41367f4e7,"Checks that if the input is an odd number, the program prints `een oneven getal` and not `een even getal`. This check is not case sensitive.",en
+357a3b17-81e7-49d4-a78e-df798a733aa0,f2f7fddb-b063-11ea-a2fb-cec41367f4e7,,en
+357a3b17-81e7-49d4-a78e-df798a733aa0,f2f7fddb-b063-11ea-a2fb-cec41367f4e7,,en
+37cb189f-f85b-4e88-845d-dcd602510b42,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test validates that the text assigned to the `text` variable is printed five times on a new line. You can create a new line with the PHP_EOL constant.,en
+37cb189f-f85b-4e88-845d-dcd602510b42,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test checks if a variable with the name `text` is present.,en
+37df70cb-9616-4c70-8fe2-8a24b5fdb740,81f820cc-afd9-11ea-a2fb-cec41367f4e7,"Failure to execute a test is usually caused by a mistake in your code. Some examples:
+    - an infinite loop
+    - an unexpected crash
+    - a syntax error
+    
+Diligently test your code again on your own computer and validate the output with the expected output.
+
+Keep having problems? Contact your coach.",en
+38034436-4007-4d06-9244-0fcf6bce6e28,83b2bbda-b06f-11ea-a2fb-cec41367f4e7,"This tests if the numbers 10 to 1 are printed on the command line. After each number, a new line is expected, which is placed with the `PHP_EOL` constant.",en
+38034436-4007-4d06-9244-0fcf6bce6e28,83b2bbda-b06f-11ea-a2fb-cec41367f4e7,,en
+38034436-4007-4d06-9244-0fcf6bce6e28,83b2bbda-b06f-11ea-a2fb-cec41367f4e7,,en
+3a8d9a2d-ea3d-467f-94b6-59516611b595,af69985b-b063-11ea-a2fb-cec41367f4e7,,en
+3a8d9a2d-ea3d-467f-94b6-59516611b595,af69985b-b063-11ea-a2fb-cec41367f4e7,"Checks that if the input is an odd number, the program prints `een oneven getal` and not `een even getal`. This check is not case sensitive.",en
+3f55761f-573e-41ce-a4b1-c2958822f8b1,6f6769bf-afd0-11ea-a2fb-cec41367f4e7,This test checks if the program prints the text `Hello world` as output. Note that this check is case sensitive.,en
+3f6f625a-764b-461f-a25b-d98076742fc8,606f0d67-afd4-11ea-a2fb-cec41367f4e7,,en
+3f6f625a-764b-461f-a25b-d98076742fc8,606f0d67-afd4-11ea-a2fb-cec41367f4e7,,en
+406f04f3-b551-41a3-8604-d78ee1cf80c3,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+406f04f3-b551-41a3-8604-d78ee1cf80c3,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+406f04f3-b551-41a3-8604-d78ee1cf80c3,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+406f04f3-b551-41a3-8604-d78ee1cf80c3,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+406f04f3-b551-41a3-8604-d78ee1cf80c3,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+406f04f3-b551-41a3-8604-d78ee1cf80c3,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+40930f5e-f067-449d-a996-4ba00b5c2117,4510ab42-afd6-11ea-a2fb-cec41367f4e7,,en
+40930f5e-f067-449d-a996-4ba00b5c2117,4510ab42-afd6-11ea-a2fb-cec41367f4e7,,en
+4137486a-3ebe-47ef-8afd-4e6021dd2d2c,606f0d67-afd4-11ea-a2fb-cec41367f4e7,,en
+4137486a-3ebe-47ef-8afd-4e6021dd2d2c,606f0d67-afd4-11ea-a2fb-cec41367f4e7,,en
+42349fc9-b215-4e49-884c-20163329e479,9018e1ce-b071-11ea-a2fb-cec41367f4e7,,en
+42349fc9-b215-4e49-884c-20163329e479,9018e1ce-b071-11ea-a2fb-cec41367f4e7,,en
+42349fc9-b215-4e49-884c-20163329e479,9018e1ce-b071-11ea-a2fb-cec41367f4e7,,en
+43dcedd4-5d40-4471-827c-9dce00808add,9018e1ce-b071-11ea-a2fb-cec41367f4e7,"Here we test if all names from the provided file are printed below each other. After each name, a new line is expected that is placed with the `PHP_EOL` constant.",en
+43dcedd4-5d40-4471-827c-9dce00808add,9018e1ce-b071-11ea-a2fb-cec41367f4e7,,en
+43dcedd4-5d40-4471-827c-9dce00808add,9018e1ce-b071-11ea-a2fb-cec41367f4e7,,en
+44d86276-8a03-4b8f-a7c7-9caf0630add9,606f0d67-afd4-11ea-a2fb-cec41367f4e7,,en
+44d86276-8a03-4b8f-a7c7-9caf0630add9,606f0d67-afd4-11ea-a2fb-cec41367f4e7,,en
+489dd3ef-61d4-40e0-82c5-d4e3fc13d1cd,83b2bbda-b06f-11ea-a2fb-cec41367f4e7,,en
+489dd3ef-61d4-40e0-82c5-d4e3fc13d1cd,83b2bbda-b06f-11ea-a2fb-cec41367f4e7,,en
+489dd3ef-61d4-40e0-82c5-d4e3fc13d1cd,83b2bbda-b06f-11ea-a2fb-cec41367f4e7,,en
+48b20e45-bcce-439f-8f51-680a2f88a25a,d0671fb7-b064-11ea-a2fb-cec41367f4e7,,en
+48b20e45-bcce-439f-8f51-680a2f88a25a,d0671fb7-b064-11ea-a2fb-cec41367f4e7,,en
+48dd87c6-7381-4981-97b6-677314f3e616,af69985b-b063-11ea-a2fb-cec41367f4e7,"Checks that if the input is an even number, the program prints `een even getal` and not `een oneven getal`. This check is not case sensitive.",en
+48dd87c6-7381-4981-97b6-677314f3e616,af69985b-b063-11ea-a2fb-cec41367f4e7,"Checks that if the input is an odd number, the program prints `een oneven getal` and not `een even getal`. This check is not case sensitive.",en
+495ab0da-baba-4b04-b2c5-8cceb1c91881,6f6769bf-afd0-11ea-a2fb-cec41367f4e7,,en
+4a1c2a8b-bb67-4e40-91ba-2c2b9f5f2ebd,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test validates that the text assigned to the `text` variable is printed five times on a new line. You can create a new line with the PHP_EOL constant.,en
+4a1c2a8b-bb67-4e40-91ba-2c2b9f5f2ebd,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test checks if a variable with the name `text` is present.,en
+4be80531-6324-490a-a8cc-3e7f9e085729,9018e1ce-b071-11ea-a2fb-cec41367f4e7,,en
+4be80531-6324-490a-a8cc-3e7f9e085729,9018e1ce-b071-11ea-a2fb-cec41367f4e7,,en
+4be80531-6324-490a-a8cc-3e7f9e085729,9018e1ce-b071-11ea-a2fb-cec41367f4e7,,en
+4bed0148-44f6-4c92-9301-10f09920d35e,f2f7fddb-b063-11ea-a2fb-cec41367f4e7,,en
+4bed0148-44f6-4c92-9301-10f09920d35e,f2f7fddb-b063-11ea-a2fb-cec41367f4e7,,en
+4cfe99e1-7cdd-494c-82c8-1eb0d1003b96,6f6769bf-afd0-11ea-a2fb-cec41367f4e7,,en
+4d83a6c5-7394-4de1-9a72-cb41f7d8aa89,6f6769bf-afd0-11ea-a2fb-cec41367f4e7,,en
+4dc75682-c873-4149-a1df-d1870ff93423,6f6769bf-afd0-11ea-a2fb-cec41367f4e7,,en
+4e8dfb16-53f4-4642-9fd8-833ba30cb0fb,be700679-b06f-11ea-a2fb-cec41367f4e7,,en
+5062cb41-682b-4d83-b0e2-bea9e8e04d72,606f0d67-afd4-11ea-a2fb-cec41367f4e7,,en
+5062cb41-682b-4d83-b0e2-bea9e8e04d72,606f0d67-afd4-11ea-a2fb-cec41367f4e7,,en
+51085ee1-4567-40ac-9cbc-4681e15821fa,c0e71e14-b06e-11ea-a2fb-cec41367f4e7,,en
+51085ee1-4567-40ac-9cbc-4681e15821fa,c0e71e14-b06e-11ea-a2fb-cec41367f4e7,,en
+51085ee1-4567-40ac-9cbc-4681e15821fa,c0e71e14-b06e-11ea-a2fb-cec41367f4e7,,en
+51085ee1-4567-40ac-9cbc-4681e15821fa,c0e71e14-b06e-11ea-a2fb-cec41367f4e7,,en
+52107f3e-f213-4eb1-b98e-f2773836b7ab,af69985b-b063-11ea-a2fb-cec41367f4e7,"Checks that if the input is an even number, the program prints `een even getal` and not `een oneven getal`. This check is not case sensitive.",en
+52107f3e-f213-4eb1-b98e-f2773836b7ab,af69985b-b063-11ea-a2fb-cec41367f4e7,"Checks that if the input is an odd number, the program prints `een oneven getal` and not `een even getal`. This check is not case sensitive.",en
+525bf5a6-05d6-481e-92f1-40f2521c6292,9018e1ce-b071-11ea-a2fb-cec41367f4e7,,en
+525bf5a6-05d6-481e-92f1-40f2521c6292,9018e1ce-b071-11ea-a2fb-cec41367f4e7,,en
+525bf5a6-05d6-481e-92f1-40f2521c6292,9018e1ce-b071-11ea-a2fb-cec41367f4e7,,en
+532917e9-a329-4071-bfb1-89859c6b94b0,af69985b-b063-11ea-a2fb-cec41367f4e7,"Checks that if the input is an even number, the program prints `een even getal` and not `een oneven getal`. This check is not case sensitive.",en
+532917e9-a329-4071-bfb1-89859c6b94b0,af69985b-b063-11ea-a2fb-cec41367f4e7,"Checks that if the input is an odd number, the program prints `een oneven getal` and not `een even getal`. This check is not case sensitive.",en
+53abd31b-f65c-4da2-aec6-1ba97f433d15,6f6769bf-afd0-11ea-a2fb-cec41367f4e7,,en
+55dd63e7-812c-443b-9a7a-13bdd9f5ef55,9018e1ce-b071-11ea-a2fb-cec41367f4e7,,en
+55dd63e7-812c-443b-9a7a-13bdd9f5ef55,9018e1ce-b071-11ea-a2fb-cec41367f4e7,,en
+55dd63e7-812c-443b-9a7a-13bdd9f5ef55,9018e1ce-b071-11ea-a2fb-cec41367f4e7,,en
+573f04b4-ecbd-4247-a2db-96ef775ad9f8,af69985b-b063-11ea-a2fb-cec41367f4e7,"Checks that if the input is an even number, the program prints `een even getal` and not `een oneven getal`. This check is not case sensitive.",en
+573f04b4-ecbd-4247-a2db-96ef775ad9f8,af69985b-b063-11ea-a2fb-cec41367f4e7,"Checks that if the input is an odd number, the program prints `een oneven getal` and not `een even getal`. This check is not case sensitive.",en
+576732b5-a605-4c6e-8e97-1530ba95558d,81f820cc-afd9-11ea-a2fb-cec41367f4e7,"Failure to execute a test is usually caused by a mistake in your code. Some examples:
+    - an infinite loop
+    - an unexpected crash
+    - a syntax error
+    
+Diligently test your code again on your own computer and validate the output with the expected output.
+
+Keep having problems? Contact your coach.",en
+59da582d-3fe0-4107-9e23-c2b3300ecbb7,3333dedb-afd7-11ea-a2fb-cec41367f4e7,"Failure to execute a test is usually caused by a mistake in your code. Some examples:
+    - an infinite loop
+    - an unexpected crash
+    - a syntax error
+    
+Diligently test your code again on your own computer and validate the output with the expected output.
+
+Keep having problems? Contact your coach.",en
+5a0096f2-0cee-4dc0-a624-587ef3e7cdff,606f0d67-afd4-11ea-a2fb-cec41367f4e7,,en
+5a0096f2-0cee-4dc0-a624-587ef3e7cdff,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test checks if a variable with the name `text` is present.,en
+5a9148cf-f348-48bf-b3f9-97932e6269ad,c0e71e14-b06e-11ea-a2fb-cec41367f4e7,,en
+5a9148cf-f348-48bf-b3f9-97932e6269ad,c0e71e14-b06e-11ea-a2fb-cec41367f4e7,,en
+5a9148cf-f348-48bf-b3f9-97932e6269ad,c0e71e14-b06e-11ea-a2fb-cec41367f4e7,,en
+5a9148cf-f348-48bf-b3f9-97932e6269ad,c0e71e14-b06e-11ea-a2fb-cec41367f4e7,,en
+5b5bb540-60c4-4435-8ef2-33f1719f9a9f,af69985b-b063-11ea-a2fb-cec41367f4e7,"Checks that if the input is an even number, the program prints `een even getal` and not `een oneven getal`. This check is not case sensitive.",en
+5b5bb540-60c4-4435-8ef2-33f1719f9a9f,af69985b-b063-11ea-a2fb-cec41367f4e7,"Checks that if the input is an odd number, the program prints `een oneven getal` and not `een even getal`. This check is not case sensitive.",en
+5cff79fb-9110-4259-95bb-6ade8675cead,6f6769bf-afd0-11ea-a2fb-cec41367f4e7,,en
+5e187a92-6578-46cc-b733-d8229ea23677,af69985b-b063-11ea-a2fb-cec41367f4e7,"Checks that if the input is an even number, the program prints `een even getal` and not `een oneven getal`. This check is not case sensitive.",en
+5e187a92-6578-46cc-b733-d8229ea23677,af69985b-b063-11ea-a2fb-cec41367f4e7,"Checks that if the input is an odd number, the program prints `een oneven getal` and not `een even getal`. This check is not case sensitive.",en
+620c5bf2-5c16-461b-bd36-a13ae12bd0f3,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+620c5bf2-5c16-461b-bd36-a13ae12bd0f3,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+620c5bf2-5c16-461b-bd36-a13ae12bd0f3,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+620c5bf2-5c16-461b-bd36-a13ae12bd0f3,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+620c5bf2-5c16-461b-bd36-a13ae12bd0f3,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+626f7d84-b719-48df-b36f-daf37d5ac205,af69985b-b063-11ea-a2fb-cec41367f4e7,"Checks that if the input is an even number, the program prints `een even getal` and not `een oneven getal`. This check is not case sensitive.",en
+626f7d84-b719-48df-b36f-daf37d5ac205,af69985b-b063-11ea-a2fb-cec41367f4e7,"Checks that if the input is an odd number, the program prints `een oneven getal` and not `een even getal`. This check is not case sensitive.",en
+62f7355e-35ac-48cd-b751-ad0ec97d2847,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test validates that the text assigned to the `text` variable is printed five times on a new line. You can create a new line with the PHP_EOL constant.,en
+62f7355e-35ac-48cd-b751-ad0ec97d2847,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test checks if a variable with the name `text` is present.,en
+63913ea8-0a18-4647-b128-f011dbb5c0e0,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+63913ea8-0a18-4647-b128-f011dbb5c0e0,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+63913ea8-0a18-4647-b128-f011dbb5c0e0,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+63913ea8-0a18-4647-b128-f011dbb5c0e0,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+63913ea8-0a18-4647-b128-f011dbb5c0e0,2016bbe1-afd8-11ea-a2fb-cec41367f4e7,,en
+64946b27-bbfc-4bbd-8d01-35783017e8b3,6f6769bf-afd0-11ea-a2fb-cec41367f4e7,,en
+64af2c03-9005-4c3f-b7f0-cb8ad6fa107f,f2f7fddb-b063-11ea-a2fb-cec41367f4e7,,en
+64af2c03-9005-4c3f-b7f0-cb8ad6fa107f,f2f7fddb-b063-11ea-a2fb-cec41367f4e7,,en
+654b28ef-9337-433b-9eb2-518dffa16538,3333dedb-afd7-11ea-a2fb-cec41367f4e7,"Failure to execute a test is usually caused by a mistake in your code. Some examples:
+    - an infinite loop
+    - an unexpected crash
+    - a syntax error
+    
+Diligently test your code again on your own computer and validate the output with the expected output.
+
+Keep having problems? Contact your coach.",en
+67afbbb2-1579-422b-9352-5b1b048685da,af69985b-b063-11ea-a2fb-cec41367f4e7,,en
+67afbbb2-1579-422b-9352-5b1b048685da,af69985b-b063-11ea-a2fb-cec41367f4e7,,en
+68b07719-5c45-4907-911f-274a8b9fa69c,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test validates that the text assigned to the `text` variable is printed five times on a new line. You can create a new line with the PHP_EOL constant.,en
+68b07719-5c45-4907-911f-274a8b9fa69c,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test checks if a variable with the name `text` is present.,en
+6b7b7a4b-978f-403e-95b4-0703356253b1,c82728c7-afd9-11ea-a2fb-cec41367f4e7,,en
+6b7b7a4b-978f-403e-95b4-0703356253b1,c82728c7-afd9-11ea-a2fb-cec41367f4e7,,en
+6ced80ca-96f4-41ab-9a91-6ed6e2a17f5b,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+6ced80ca-96f4-41ab-9a91-6ed6e2a17f5b,25078a26-b064-11ea-a2fb-cec41367f4e7,"Checks that if the input is a valid operator and then an invalid number is entered, the text `not a number` or `not a valid number` is printed to the command line. Note: this check is case sensitive.",en
+6ced80ca-96f4-41ab-9a91-6ed6e2a17f5b,25078a26-b064-11ea-a2fb-cec41367f4e7,"Checks that if the input is an invalid operator and then two numbers are entered, the text `invalid operation` is printed to the command line",en
+6ced80ca-96f4-41ab-9a91-6ed6e2a17f5b,25078a26-b064-11ea-a2fb-cec41367f4e7,"Checks that if the input is a valid operator and then a valid number followed by an invalid number is entered, the text `not a number` or `not a valid number` is printed to the command line. Note: this check is case sensitive.",en
+6ced80ca-96f4-41ab-9a91-6ed6e2a17f5b,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+6ced80ca-96f4-41ab-9a91-6ed6e2a17f5b,25078a26-b064-11ea-a2fb-cec41367f4e7,,en
+710d6857-aa9d-4871-b5b3-64e7e473e28e,f2f7fddb-b063-11ea-a2fb-cec41367f4e7,,en
+710d6857-aa9d-4871-b5b3-64e7e473e28e,f2f7fddb-b063-11ea-a2fb-cec41367f4e7,,en
+713bdd08-4ab1-42f3-961c-6bf73c0ccf65,81f820cc-afd9-11ea-a2fb-cec41367f4e7,"Failure to execute a test is usually caused by a mistake in your code. Some examples:
+    - an infinite loop
+    - an unexpected crash
+    - a syntax error
+    
+Diligently test your code again on your own computer and validate the output with the expected output.
+
+Keep having problems? Contact your coach.",en
+731a25c4-24d2-42aa-9c24-66fbb5c7a1ee,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test validates that the text assigned to the `text` variable is printed five times on a new line. You can create a new line with the PHP_EOL constant.,en
+731a25c4-24d2-42aa-9c24-66fbb5c7a1ee,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test checks if a variable with the name `text` is present.,en
+7428f394-1b24-4087-8810-31d3910e3ff2,6f6769bf-afd0-11ea-a2fb-cec41367f4e7,,en
+75445ef7-c620-456a-bd1f-65e34f15b15e,038102cd-b070-11ea-a2fb-cec41367f4e7,,en
+75445ef7-c620-456a-bd1f-65e34f15b15e,038102cd-b070-11ea-a2fb-cec41367f4e7,,en
+75445ef7-c620-456a-bd1f-65e34f15b15e,038102cd-b070-11ea-a2fb-cec41367f4e7,,en
+793d63e9-6cb1-485d-9d22-1513afe0341f,c0e71e14-b06e-11ea-a2fb-cec41367f4e7,,en
+793d63e9-6cb1-485d-9d22-1513afe0341f,c0e71e14-b06e-11ea-a2fb-cec41367f4e7,,en
+793d63e9-6cb1-485d-9d22-1513afe0341f,c0e71e14-b06e-11ea-a2fb-cec41367f4e7,"This tests whether the numbers 1 through 10 are printed on the command line. After each number, a new line is expected which is placed with the `PHP_EOL` constant.",en
+793d63e9-6cb1-485d-9d22-1513afe0341f,c0e71e14-b06e-11ea-a2fb-cec41367f4e7,,en
+793faf41-f87d-43c0-b4a3-07f6aa10b84b,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test validates that the text assigned to the `text` variable is printed five times on a new line. You can create a new line with the PHP_EOL constant.,en
+793faf41-f87d-43c0-b4a3-07f6aa10b84b,606f0d67-afd4-11ea-a2fb-cec41367f4e7,This test checks if a variable with the name `text` is present.,en
+7bcd85bc-17af-48f2-af22-8cf255d14bc9,c0e71e14-b06e-11ea-a2fb-cec41367f4e7,,en
+7bcd85bc-17af-48f2-af22-8cf255d14bc9,c0e71e14-b06e-11ea-a2fb-cec41367f4e7,,en
+7bcd85bc-17af-48f2-af22-8cf255d14bc9,c0e71e14-b06e-11ea-a2fb-cec41367f4e7,,en
+7bcd85bc-17af-48f2-af22-8cf255d14bc9,c0e71e14-b06e-11ea-a2fb-cec41367f4e7,,en
+7c4529f7-6085-4a89-ab09-bd7f38f8b206,83b2bbda-b06f-11ea-a2fb-cec41367f4e7,,en
+7c4529f7-6085-4a89-ab09-bd7f38f8b206,83b2bbda-b06f-11ea-a2fb-cec41367f4e7,,en
+7c4529f7-6085-4a89-ab09-bd7f38f8b206,83b2bbda-b06f-11ea-a2fb-cec41367f4e7,,en
+7d4b687a-d1f2-4c69-8fd3-d456a7e3b769,c0e71e14-b06e-11ea-a2fb-cec41367f4e7,,en
+7d4b687a-d1f2-4c69-8fd3-d456a7e3b769,c0e71e14-b06e-11ea-a2fb-cec41367f4e7,,en

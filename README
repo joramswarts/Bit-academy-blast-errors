@@ -1,0 +1,63 @@
+# Jarvis BLAST Data Analysis Project README
+
+## Overview
+
+Welcome to the "Jarvis BLAST Data Analysis" project! This project aims to provide valuable insights into the errors made by students during the "BLAST" tests on their code in the Jarvis system. By analyzing linting errors and custom test code errors, we strive to inform better coding practices, improve educational methods, and enhance the overall system.
+
+## Features
+
+### Core Features
+
+1. **Data Reading**
+    - Load multiple CSV files representing different tables from the Jarvis database.(We are not allowed to share these files unfortunately)
+
+2. **Data Cleaning**
+    - Identify and handle missing values, outliers, or any inconsistencies in the data.
+    - Ensure consistent data types and formats across the dataset.
+    - We cleaned the data in a way we only kept the data we used for this project.
+
+3. **Data Linking**
+    - Merge or join tables as needed, maintaining accurate data relationships.
+    - Validate relationships to ensure no data loss during linking.
+
+4. **Data Analysis**
+    - Extract meaningful statistics and trends, focusing on linting errors and custom test code errors.
+    - Identify patterns, such as common errors, error frequency by student or test type, etc.
+
+5. **Data Visualization**
+    - Create intuitive and informative graphs representing insights from the data analysis.
+    - We used a custom styling for all the visuals in our project to create a unique look.
+
+
+## Technical Considerations
+
+1. **Technology & Tools**
+    - Python with Pandas for data manipulation.
+    - Matplotlib and plotly for visualization.
+
+## Execution
+
+1. **Clone the Repository**
+    - Clone this repository to your local machine using:
+      ```
+      git clone https://github.com/joramswarts/Bit-academy-blast-errors.git
+      ```
+
+2. **Install Dependencies**
+    - Install the required dependencies using:
+      ```
+      pip install -r requirements.txt
+      ```
+
+3. **Execute the Analysis**
+    - Run the analysis script to perform data reading, cleaning, linking, analysis, and visualization.
+      ```
+      python main.py
+      ```
+
+
+
+
+## Conclusion
+
+The "Jarvis BLAST Data Analysis" project provides a comprehensive understanding of challenges students face in coding exercises. The generated insights aim to enhance learning experiences and improve test systems.
